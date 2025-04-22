@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Infección de Piel</title>
+    </head>
+    <body>
+        <outline text="Infección de Piel">
+            <outline text="Impétigo">
+                <outline text="Baño con jabón y
+recortar uñas"></outline>
+                <outline text="ATB Tópico">
+                    <outline text="Ácido fusídico (c/8
+x 7-10 dias)"></outline>
+                    <outline text="Muporicina"></outline>
+                </outline>
+                <outline text="ATB Sistémico">
+                    <outline text="Múltiples lesiones o
+extensas (&gt;2.5 cm)"></outline>
+                </outline>
+            </outline>
+            <outline text="Infecciónes Foliculo">
+                <outline text="Foliculitis Superficiales">
+                    <outline text="Lavado con jabono
+de clorexidina"></outline>
+                    <outline text="ATB tópico en zonas
+más intensas y
+localizadas"></outline>
+                    <outline text="ATB sistémico en caso de gran
+extensión o reacción inflamatoria"></outline>
+                </outline>
+                <outline text="Furúnculos y ántrax">
+                    <outline text="Calor local con compresas parea
+localización y drenaje"></outline>
+                    <outline text="Lavado y aplicación
+pomadas ATB"></outline>
+                    <outline text="Drenaje qx de la
+lesión fluctuante"></outline>
+                    <outline text="ATB frente a S. Aureus --&gt; Cloxa o
+cefadroxilo / amoxiclav"></outline>
+                </outline>
+            </outline>
+            <outline text="Erisipela">
+                <outline text="S. Pyogenes"></outline>
+            </outline>
+            <outline text="Celulitis">
+                <outline text="S. Progenies
+y S. Aureus"></outline>
+            </outline>
+            <outline text="FN">
+                <outline text="Tipo I: Polimicrobiana,
+anaerobios y bacilos G(-)">
+                    <outline text="UPC, Qx, Penicilina
++ Clindamicina"></outline>
+                </outline>
+                <outline text="Tipo II: S. Pyogenes"></outline>
+            </outline>
+            <outline text="Sd. Piel Escalada">
+                <outline text="Por toxina
+exfoliativa S.
+Aureus"></outline>
+                <outline text="Afecta neonatos y
+menores de 5 años"></outline>
+            </outline>
+            <outline text="Mordeduras">
+                <outline text="Amoxi clav"></outline>
+                <outline text="Vacuna antitetanica"></outline>
+                <outline text="Vacuna antirrábica"></outline>
+                <outline text="Perros el 80 % es polimicrobiana:
+Pasteurella multocitada, staph
+aureus y capnocytophaga"></outline>
+            </outline>
+            <outline text="Sarna">
+                <outline text="Permetrina"></outline>
+            </outline>
+            <outline text="Tiña">
+                <outline text="Terbinafine"></outline>
+                <outline text="Agregar prednisona
+1mg/kg si hay Kerion"></outline>
+            </outline>
+            <outline text="Candida">
+                <outline text="Oral (VO)">
+                    <outline text="Nistatina"></outline>
+                    <outline text="Miconazol"></outline>
+                </outline>
+                <outline text="Genital (crema)">
+                    <outline text="Ketonazol"></outline>
+                    <outline text="Nistatina"></outline>
+                    <outline text="Clotrimazol"></outline>
+                    <outline text="Agregar tto oral
+si no mejora"></outline>
+                </outline>
+            </outline>
+            <outline text="Riquetzia">
+                <outline text="Tetraciclina Urgente"></outline>
+            </outline>
+            <outline text="Manifestaciones
+Cutáneas VHS">
+                <outline text="Herpes neonatal (+ grave)"></outline>
+                <outline text="Gingivoestomatitis"></outline>
+                <outline text="Panadizo herpético"></outline>
+            </outline>
+            <outline text="Uso aciclovir
+en Varicela">
+                <outline text="Principalmente, aquellos con factores
+de riesgo en cuadro grave"></outline>
+                <outline text="Enf. Pulmonar o cutanea crónica que
+sobreinfección bacteriana puede tener
+consecuencias graves"></outline>
+                <outline text="Tratamiento
+prolongado con
+AAS"></outline>
+                <outline text="Tratamiento con ciclos cortos de corticoides
+orales o tto corticoides inhalados"></outline>
+                <outline text="Infección en el hogar"></outline>
+                <outline text="Niños &gt;12 y adultos"></outline>
+                <outline text="TRATAMIENTO &lt; 24 horas de
+la aparición del rash!"></outline>
+            </outline>
+        </outline>
+        <outline text="Infecciones
+Osteoarticulares">
+            <outline text="Kingella">
+                <outline text="Predomina en lactantes"></outline>
+                <outline text="Presente en flora
+comensal faríngea"></outline>
+                <outline text="Tratamiento con
+Betalactamicos"></outline>
+                <outline text="Evolución más benigna "></outline>
+                <outline text="Sólo crece en frascos de
+hemocultivos automatizados"></outline>
+                <outline text="Diagnóstico por PCR"></outline>
+                <outline text="Cefazolina EV --&gt; Amoxi
+90mg/kg/dia VO"></outline>
+            </outline>
+            <outline text="Osteomielitis LPV ">
+                <outline text="Causa
+osteomielitis
+agresiva"></outline>
+                <outline text="Condición asociada
+frecuentemente a TVP"></outline>
+                <outline text="RM temprana y
+repetida es clave"></outline>
+                <outline text="Tratamiento complejo que suele
+requerir intervención quirúrgica"></outline>
+            </outline>
+            <outline text="RN">
+                <outline text="Strepto groupo B"></outline>
+                <outline text="Bacilos Gram -"></outline>
+                <outline text="SAMR"></outline>
+                <outline text="En el 40% hay más de un foco --&gt;
+Sistematizadme inmune disminuido"></outline>
+            </outline>
+            <outline text="Generalidades
+tratamiento">
+                <outline text="ATB">
+                    <outline text="Elegir de preferencia
+antiestafilocócico">
+                        <outline text="Cloxacilina"></outline>
+                        <outline text="Cefazolina"></outline>
+                        <outline text="Clindamicina"></outline>
+                        <outline text="Vancomicina"></outline>
+                    </outline>
+                    <outline text="Uso asociado de betalactamioco
+puede adquirir importancia">
+                        <outline text="Strepto pneumonia"></outline>
+                        <outline text="Kingella king">
+                            <outline text="Cefazolina
+hospitalizándoosdo,
+Amoxi VO"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Infección por herida punzante plantar
+debe incluir antipseudomona"></outline>
+                    <outline text="En RN cubrir enterobacterias con
+cefalosporinas de tercera generación"></outline>
+                    <outline text="SAMS PLV">
+                        <outline text="Cloxacilina + Clindamicina"></outline>
+                    </outline>
+                    <outline text="SAMR PLV">
+                        <outline text="Daptomicina"></outline>
+                    </outline>
+                </outline>
+                <outline text="Qx">
+                    <outline text="En niños drenaje de colecciónnes
+purulentas, suele ser solo una vez">
+                        <outline text="La sociedad británicanica
+planteacirugía solo si no se
+responde a tratamiento médico"></outline>
+                    </outline>
+                    <outline text="SAMR">
+                        <outline text="Debridamiento Qx  y
+drenaje de absceso"></outline>
+                        <outline text="Vancomicina +
+Clindamicina"></outline>
+                    </outline>
+                    <outline text="PLV">
+                        <outline text="Drenaje y aseo multiples
+veces si es necesario"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Esquema empírico">
+                <outline text="Cefazolina +
+Clindamicina"></outline>
+            </outline>
+            <outline text="Duración Tratamiento">
+                <outline text="IV: 4-7 días"></outline>
+                <outline text="Total">
+                    <outline text="Artirtis: 4 semanas"></outline>
+                    <outline text="Osteomielitis:
+4-6 semanas"></outline>
+                    <outline text="Kingella: 3-4 semanas"></outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Sd Febril sin foco">
+            <outline text="Principales Agentes">
+                <outline text="Neumococco es el
+más frecuente"></outline>
+                <outline text="Meningococo el que
+focaliza a las meninges"></outline>
+            </outline>
+            <outline text="RN">
+                <outline text="Partir con
+hemograma, orina y
+MI. PL."></outline>
+                <outline text="Ojo riesgo HSV
+neonatal --&gt; Aciclovir"></outline>
+                <outline text="Ampicilina + Gentamicina
+como esquema empirico"></outline>
+            </outline>
+            <outline text="29-60 día">
+                <outline text="Partir con
+hemograma, orina y
+MI">
+                    <outline text="Si están elevados los MI, hacer
+estudio completo, ver orina
+completa. Plausible hacer PL"></outline>
+                    <outline text="Si no estan elevados
+pero el orina (+), cultivar y ATB. Se puede dar el alta"></outline>
+                    <outline text="Si todo (-), alta y
+revisar en 24 horas"></outline>
+                </outline>
+            </outline>
+            <outline text="90 días - 36 meses ">
+                <outline text="Aspecto séptico">
+                    <outline text="Hospitalizar y estudiar"></outline>
+                </outline>
+                <outline text="Vacunas al día y sin foco">
+                    <outline text="PCR capilar"></outline>
+                    <outline text="Orina completa y
+cultivo orina"></outline>
+                    <outline text="Segunda opción: Hemograma, PCR.
+Hemocultivos, OC, urocultivo"></outline>
+                </outline>
+            </outline>
+            <outline text="&gt; 3 años">
+                <outline text="Aspecto séptico">
+                    <outline text="Hospitalizar y estudiar"></outline>
+                </outline>
+                <outline text="Tiempo Evolución">
+                    <outline text="&lt; 3 días">
+                        <outline text="Antipiréticos y control si
+persiste en 24-48 horas"></outline>
+                    </outline>
+                    <outline text="&gt;5 días">
+                        <outline text="Exámenes generales"></outline>
+                    </outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Meningitis Bacteriana">
+            <outline text="Etiologia General">
+                <outline text="Bacteriana"></outline>
+                <outline text="Virales">
+                    <outline text="Enterovirus"></outline>
+                    <outline text="Parotiditis viral"></outline>
+                    <outline text="VIH"></outline>
+                </outline>
+                <outline text="TBC"></outline>
+                <outline text="Ascépticas">
+                    <outline text="Gamaglobulina"></outline>
+                    <outline text="Medicamentos
+intratecales"></outline>
+                </outline>
+            </outline>
+            <outline text="Agentes Bacterianos">
+                <outline text="RN">
+                    <outline text="E. Coli"></outline>
+                    <outline text="Strepto grupo B"></outline>
+                    <outline text="Listeria Monocytogenes"></outline>
+                </outline>
+                <outline text="&gt;1 mes">
+                    <outline text="Neumococo"></outline>
+                    <outline text="Meningococo"></outline>
+                    <outline text="HiB"></outline>
+                </outline>
+            </outline>
+            <outline text="Clínica Importante">
+                <outline text="Triada de Cushing">
+                    <outline text="Hipertensión"></outline>
+                    <outline text="Bradicardia"></outline>
+                    <outline text="Depresión respiratoria"></outline>
+                </outline>
+                <outline text="Triada Clásica">
+                    <outline text="Fiebre"></outline>
+                    <outline text="Rigidez nuca"></outline>
+                    <outline text="Alteración conciencia"></outline>
+                </outline>
+                <outline text="RN y &lt; 3M">
+                    <outline text="Fiebre - hipotermia"></outline>
+                    <outline text="Rechazo alimentario"></outline>
+                    <outline text="Síntomas GI"></outline>
+                </outline>
+                <outline text="Letargia, irritabilidad"></outline>
+                <outline text="&gt;3M">
+                    <outline text="Fiebre"></outline>
+                    <outline text="Cefalea"></outline>
+                    <outline text="Fotofobia"></outline>
+                    <outline text="Nauseas, vómitos"></outline>
+                    <outline text="Confusión,
+letargia,
+irritabilidad"></outline>
+                </outline>
+                <outline text="HTEC">
+                    <outline text="CC"></outline>
+                    <outline text="Fontanela Amombada"></outline>
+                    <outline text="Separación Suturas"></outline>
+                    <outline text="Alteraciones PA - FC - FR"></outline>
+                    <outline text="Reflejo pupilar"></outline>
+                    <outline text="Alteraciones posturales"></outline>
+                    <outline text="Edema papila"></outline>
+                </outline>
+                <outline text="Encefailits">
+                    <outline text="CC"></outline>
+                    <outline text="Convulsiones"></outline>
+                    <outline text="Focalización"></outline>
+                    <outline text="Ataxia"></outline>
+                    <outline text="Hipoacusia"></outline>
+                    <outline text="Fotofobia"></outline>
+                    <outline text="Hiperreflexia"></outline>
+                </outline>
+                <outline text="Piel">
+                    <outline text="Síndrome purpúrico"></outline>
+                    <outline text="Exantema maculopapular"></outline>
+                </outline>
+            </outline>
+            <outline text="Diagnóstico">
+                <outline text="PL obligatoria
+ante sospecha"></outline>
+                <outline text="TAC previo a PL">
+                    <outline text="CC importante"></outline>
+                    <outline text="IS"></outline>
+                    <outline text="Focalidad neurológica"></outline>
+                    <outline text="Compromiso
+par craneano"></outline>
+                    <outline text="Edema papila"></outline>
+                    <outline text="Sospecha HTEC"></outline>
+                </outline>
+                <outline text="Contraindicación PL">
+                    <outline text="Compromiso
+cardiorrespiratorio
+grave"></outline>
+                    <outline text="Infección piel
+zona punción"></outline>
+                    <outline text="Coagulopatía"></outline>
+                    <outline text="HTEC"></outline>
+                </outline>
+            </outline>
+            <outline text="Antibioterapia">
+                <outline text="RN">
+                    <outline text="Ampicilina + Cefotaxima (se prefiere
+por mejor llegada a G(-))"></outline>
+                </outline>
+                <outline text="Niños y adultos">
+                    <outline text="Ceftriaxona +- Vancomicina
+(Si existe R a PNC)"></outline>
+                </outline>
+                <outline text="Adultos crónicos">
+                    <outline text="Ampicilina +
+Cefotaxima (= a
+RN)"></outline>
+                </outline>
+                <outline text="Post Qx o Trauma">
+                    <outline text="Vancomicina +
+Ceftazidima"></outline>
+                </outline>
+                <outline text="Asociar Corticoides?">
+                    <outline text="Neumococo o meningococo
+en niños &gt; 6 semanas"></outline>
+                    <outline text="Dexametasona 0.15mg/kg/día 20 mins
+antes de administrar ATB"></outline>
+                </outline>
+                <outline text="PL Control?">
+                    <outline text="Mala respuesta, meningitis neonatal
+por G(-) o agalactiae, shunt LCR o
+meningitis R a ATB"></outline>
+                </outline>
+            </outline>
+            <outline text="Complicaciones">
+                <outline text="Hidrocefalia (medir PC
+todos los días)"></outline>
+                <outline text="Absceso "></outline>
+                <outline text="Cerebritis y lesión
+nervios craneales"></outline>
+                <outline text="Trombosis"></outline>
+                <outline text="Ventriculitis y vasculopatia"></outline>
+                <outline text="Colección extra axial"></outline>
+            </outline>
+            <outline text="Secuelas">
+                <outline text="Hipoacusia"></outline>
+                <outline text="Retraso DSM"></outline>
+                <outline text="Hidrocefalia (+f por
+neumococo)"></outline>
+                <outline text="Amputación en
+meningococcemia"></outline>
+                <outline text="Alteración aprendizaje"></outline>
+            </outline>
+            <outline text="Prevención">
+                <outline text="Rifampicina para
+HiB Y meningococo"></outline>
+            </outline>
+        </outline>
+        <outline text="Exantema">
+            <outline text="1˚ Enfermedad -
+Sarampión">
+                <outline text="Compromiso respiratorio"></outline>
+                <outline text="Empeoramiento al
+aparecer exantema"></outline>
+                <outline text="Coriza, fiebre, tos"></outline>
+                <outline text="Exantema maculopapular, morbiliforme, inicio
+retroauricular y compromiso cuello y cara
+confluente, especialmente en tronco"></outline>
+                <outline text="Aclaramiento 5˚ día"></outline>
+                <outline text="Baño diario - Anti H1
+si mucho prúrito"></outline>
+            </outline>
+            <outline text="2˚ Enfermedad -
+Escarlatina">
+                <outline text="Fiebre"></outline>
+                <outline text="Odinofagia"></outline>
+                <outline text="Exantema
+micropapular
+generalizado"></outline>
+                <outline text="Exantema papilas
+linguales solevantadas"></outline>
+                <outline text="Más intenso en pliegues"></outline>
+                <outline text="Piel de gallina"></outline>
+                <outline text="Puede perder uñas a
+las 6 semanas"></outline>
+                <outline text="Si &lt; 30kg 600.000 UI de
+penicilina, &gt;30kg 1.200.000 UI"></outline>
+            </outline>
+            <outline text="3˚ Enfermedad
+- Rubeola">
+                <outline text="Adenopatías
+retroauriculares y
+occipitales"></outline>
+                <outline text="BUEN ESTADO
+GENERAL"></outline>
+                <outline text="Ojo embarazadas 1˚ trimestre --&gt;
+Aborto espontáneo, microcefalia,
+cardiopatías, cataratas"></outline>
+            </outline>
+            <outline text="5˚ Enfermedad -
+Eritema Infeccioso">
+                <outline text="Buen estado general"></outline>
+                <outline text="FOTOSENSIBILIDAD"></outline>
+                <outline text="SIGNO DE LA
+CACHETADA"></outline>
+                <outline text="Parvovirus B19"></outline>
+                <outline text="Emarazadas --&gt;
+Hidrops fetal. Mayor riesgo antes de 20 semanas"></outline>
+            </outline>
+            <outline text="6˚ Enfermedad -
+Exantema Tóxico">
+                <outline text="Buen estado general"></outline>
+                <outline text="Cae la fiebre,
+aparece exantema"></outline>
+                <outline text="Herpes 6"></outline>
+                <outline text="Asociado a
+convulsiones
+febriles"></outline>
+            </outline>
+        </outline>
+        <outline text="Infecciones
+Emergentes">
+            <outline text="Viruela Del Mono">
+                <outline text="Orthopoxvirus"></outline>
+                <outline text="Existe el tipo I y II, I más
+severo, II el más común"></outline>
+                <outline text="Complicaciones raras: encefalitis,
+celulitis, neumonía, sepsis, absceso,
+daño corneal, queratitis"></outline>
+                <outline text="Transmisión por contacto sexual, fluidos o
+lesiones no necesariamente sexuales.
+Existe la transmisión vertical"></outline>
+                <outline text="Lesiones parecidas a la varicela, pero
+no se rompen tan facilemente"></outline>
+                <outline text="Exantema es el
+signo más común.">
+                    <outline text="Macula - papula - vesícula -
+pústulas = costras"></outline>
+                </outline>
+                <outline text="Se puede asociar a fiebre,
+adenopatíasal, fatigas, cefalea"></outline>
+                <outline text="Proctitis y dolor anal"></outline>
+                <outline text="Alta a los 21 días desde el
+inicio del exantema">
+                    <outline text="Seguir contactos el
+mismo tiempo"></outline>
+                </outline>
+                <outline text="Vigilar pacientes, heridas limpias en niños.
+Antivirales solo en enfermedad severa o riesgo
+de complicación --&gt; Cidofovir"></outline>
+            </outline>
+            <outline text="PIMS">
+                <outline text="2-6 semanas post COVID"></outline>
+                <outline text="Fiebre &gt;= 3 días + ">
+                    <outline text="(2 criterios)">
+                        <outline text="Exantema o conjuntivitis
+bilateral no supurativa"></outline>
+                        <outline text="Hipotensión o shock"></outline>
+                        <outline text="Disfunción miocardica, pericarditi
+valvulitis o anomalia coronaria"></outline>
+                        <outline text="Coagulopatía"></outline>
+                        <outline text="Afectación GI"></outline>
+                    </outline>
+                    <outline text="PCR &gt; 50"></outline>
+                    <outline text="Sin otras etiologías
+demostrables"></outline>
+                    <outline text="Evidencia
+infección
+COVID-19"></outline>
+                </outline>
+                <outline text="Tratamiento">
+                    <outline text="Ig IV 2 gr/kg en 12 hrs
+según tolerancia"></outline>
+                    <outline text="Metilprednisona 2
+mg/kg día IV"></outline>
+                    <outline text="* Anticoagulación"></outline>
+                </outline>
+            </outline>
+            <outline text="ZIKA">
+                <outline text="Virus transmitido principalmente a través
+de mosquito del género Aedes"></outline>
+                <outline text="Mayoría contagiados son
+asintóticosmaticos"></outline>
+                <outline text="Síntomas">
+                    <outline text="Erupciones cutáneas"></outline>
+                    <outline text="Fiebre"></outline>
+                    <outline text="Conjuntivitis"></outline>
+                    <outline text="Dolores musculares y articulares"></outline>
+                    <outline text="Malestar general"></outline>
+                    <outline text="Cefaleas"></outline>
+                    <outline text="Duración 2-7 días"></outline>
+                </outline>
+                <outline text="MICROCEFALIA"></outline>
+                <outline text="Aumento riesgo de Guillian
+Barre, neurópata y la mielitis"></outline>
+            </outline>
+            <outline text="Influenza Aviar">
+                <outline text="Paciente en contacto con aves
+silvestres, mamíferos marinos y/o
+exposiciónnes ambientales"></outline>
+                <outline text="No contagio
+entre personas"></outline>
+                <outline text="Influenza A"></outline>
+            </outline>
+        </outline>
+        <outline text="VIH">
+            <outline text="Epidemiología">
+                <outline text="Tasa transmisión materno
+infantil Chile 1.6%. &lt; meta 2% OMS"></outline>
+                <outline text="440 Casos (+) En
+Chile 1987-2021"></outline>
+            </outline>
+            <outline text="Como se contagia el
+VIH a los niños">
+                <outline text="Perinatal">
+                    <outline text="Embarazo">
+                        <outline text="25%"></outline>
+                    </outline>
+                    <outline text="Trabajo de parto">
+                        <outline text="60%"></outline>
+                    </outline>
+                    <outline text="Lactancia materna">
+                        <outline text="14%"></outline>
+                    </outline>
+                </outline>
+                <outline text="Abuso sexual"></outline>
+                <outline text="Transfusiones"></outline>
+            </outline>
+            <outline text="Transmisión Vertical y Detección">
+                <outline text="In útero: 48hrs"></outline>
+                <outline text="Intraparto: 7-90 días"></outline>
+                <outline text="Post Parto: &gt; 3 meses"></outline>
+            </outline>
+            <outline text="Protocolo ACTG 076 (Mujer
+VIH(+) con carga viral &gt;
+1000 copias/ml">
+                <outline text="Administración AZT
+(Zidovudina)">
+                    <outline text="Embarazo oral"></outline>
+                    <outline text="Parto EV (iniciar 3 horas pre parto)"></outline>
+                    <outline text="Neonatos x 6 semanas"></outline>
+                </outline>
+                <outline text="Cesárea electiva 38 semanas"></outline>
+                <outline text="Suspensión LM"></outline>
+            </outline>
+            <outline text="Diagnóstico">
+                <outline text="&lt;18m usar PCR"></outline>
+                <outline text="&gt;18 meses Elisa"></outline>
+                <outline text="Periodos toma exámen">
+                    <outline text="48hrs"></outline>
+                    <outline text="14-21 días"></outline>
+                    <outline text="12 semanas"></outline>
+                    <outline text="18 meses"></outline>
+                </outline>
+            </outline>
+            <outline text="Motivos Consulta">
+                <outline text="Inespecíficos">
+                    <outline text="Adenopatías"></outline>
+                    <outline text="Hepatomegalia"></outline>
+                    <outline text="Esplenomegalia"></outline>
+                    <outline text="Fiebre prolongada"></outline>
+                </outline>
+                <outline text="Nutricionales">
+                    <outline text="Retraso ponderal o
+ponderoestatural"></outline>
+                </outline>
+                <outline text="RDPM"></outline>
+                <outline text="Infecciosas"></outline>
+                <outline text="Hematológicas"></outline>
+            </outline>
+            <outline text="Tratamiento">
+                <outline text="Profilactico pneumocystis jirovecii con
+cotrimoxazole (140 mg/m2/día) 2 dosis
+hasta los 12 meses"></outline>
+                <outline text="Vacunas neumococo"></outline>
+                <outline text="Antirretrovirales igual que en adultos"></outline>
+            </outline>
+        </outline>
+    </body>
+</opml>

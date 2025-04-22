@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datos Pediatría - P1</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="min-h-screen p-4 md:p-8 bg-slate-50 text-slate-900">
+
+    <h1 class="text-2xl md:text-3xl font-bold text-center text-slate-800 mb-8">Datos Pediatría - P1</h1>
+
+    <div class="mb-4 border-b border-slate-300 flex">
+        <button class="tab-button data-tab-active py-2 px-4 -mb-px border-b-2 border-blue-600 text-blue-600 font-semibold bg-transparent focus:outline-none" data-tab="browse" onclick="openTab(this, 'browse')">
+            Navegar Contenido
+        </button>
+        <button class="tab-button py-2 px-4 text-slate-500 hover:text-slate-700 font-medium focus:outline-none border-b-2 border-transparent" data-tab="flashcard" onclick="openTab(this, 'flashcard')">
+            Flashcards Aleatorias
+        </button>
+    </div>
+
+    <div class="mt-1">
+        <div id="browse" class="tab-content p-1 md:p-2 bg-transparent rounded-b-lg rounded-tr-lg">
+            <h2 class="sr-only">Explorar por Tema</h2>
+            {% if grouped_cards %}
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {% for topic, topic_cards in grouped_cards.items() %}
+                        <div class="topic-card bg-white border border-slate-300 rounded-xl shadow-md mb-6 overflow-hidden flex flex-col">
+                            <h3 class="text-lg md:text-xl font-semibold text-slate-900 bg-slate-100 border-b border-slate-300 px-4 py-3">
+                                {{ topic }}
+                            </h3>
+                            <div class="p-3 md:p-4 grid grid-cols-1 gap-4">
+                                {% for card in topic_cards %}
+                                    <div class="browse-card border border-slate-200 bg-white rounded-lg overflow-hidden shadow-sm transition-shadow duration-150 hover:shadow-md">
+                                        <div class="browse-term p-3 bg-transparent hover:bg-slate-50 cursor-pointer font-medium text-slate-800 flex justify-between items-center" onclick="toggleDetails(this)">
+                                            <span>{{ card.term }}</span>
+                                            <svg class="w-4 h-4 text-slate-400 transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                                        </div>
+                                        <div class="browse-details p-3 bg-white border-t border-slate-200 hidden">
+                                            <pre class="p-3 bg-slate-50 rounded-md text-sm font-mono text-slate-700 overflow-auto whitespace-pre-wrap word-wrap break-word leading-relaxed">{{ card.details | join('\n') }}</pre>
+                                        </div>
+                                    </div>
+                                {% else %}
+                                    <p class="text-slate-500 px-4 py-2">No hay elementos específicos para este tema.</p>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            {% else %}
+                 <p class="text-slate-500 text-center py-10">No se encontraron temas o tarjetas.</p>
+            {% endif %}
+        </div>
+
+        <div id="flashcard" class="tab-content p-1 md:p-2 bg-transparent rounded-b-lg rounded-tr-lg hidden">
+             <h2 class="sr-only">Flashcard Aleatoria</h2>
+            <div class="flashcard bg-white border border-slate-200 rounded-lg p-5 md:p-8 min-h-[350px] flex flex-col justify-between items-center text-center shadow-lg">
+                <div class="w-full">
+                    <div class="flashcard-topic text-base font-medium text-blue-600 mb-2" id="flashcard-topic">
+                        </div>
+
+                    <div class="flashcard-term text-xl md:text-2xl font-semibold text-slate-900 mb-5" id="flashcard-term">
+                        Cargando...
+                    </div>
+
+                    <div class="flashcard-details w-full max-w-2xl text-left hidden mt-4" id="flashcard-details">
+                        <pre class="max-h-60 overflow-y-auto p-4 bg-slate-50 rounded-md text-sm font-mono text-slate-700 whitespace-pre-wrap word-wrap break-word leading-relaxed"></pre>
+                    </div>
+                </div>
+                <div class="flashcard-controls mt-6 flex flex-col sm:flex-row gap-3 w-full sm:w-auto">
+                    <button id="reveal-button" onclick="revealDetails()" class="px-5 py-2 bg-slate-200 hover:bg-slate-300 text-slate-800 font-semibold rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors duration-150 disabled:opacity-50" disabled>
+                        Mostrar Detalles
+                    </button>
+                    <button id="next-button" onclick="loadRandomCard()" class="px-5 py-2 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors duration-150">
+                        Siguiente Tarjeta
+                    </button>
+                </div>
+            </div>
+        </div>
+         </div>
+
+    <script>
+        // Get references to elements
+        const tabContents = document.querySelectorAll('.tab-content');
+        const tabButtons = document.querySelectorAll('.tab-button');
+        const flashcardTopicEl = document.getElementById('flashcard-topic'); // Get Topic Element
+        const flashcardTermEl = document.getElementById('flashcard-term');
+        const flashcardDetailsContainerEl = document.getElementById('flashcard-details');
+        const flashcardDetailsPreEl = flashcardDetailsContainerEl?.querySelector('pre');
+        const revealBtn = document.getElementById('reveal-button');
+        let flashcardLoadedOnce = false; // Flag for initial load
+
+        // --- Tab Functions (no changes needed) ---
+        function setActiveTabStyles(activeButton) { /* ... */
+             tabButtons.forEach(button => {
+                button.classList.remove('border-blue-600', 'text-blue-600', 'data-tab-active');
+                button.classList.add('text-slate-500', 'hover:text-slate-700', 'border-transparent');
+            });
+            activeButton.classList.add('border-blue-600', 'text-blue-600', 'data-tab-active');
+            activeButton.classList.remove('text-slate-500', 'hover:text-slate-700', 'border-transparent');
+         }
+        function openTab(buttonEl, tabName) { /* ... */
+            tabContents.forEach(content => content.classList.add('hidden'));
+            setActiveTabStyles(buttonEl);
+            const activeTabContent = document.getElementById(tabName);
+            if (activeTabContent) activeTabContent.classList.remove('hidden');
+            if (tabName === 'flashcard' && !flashcardLoadedOnce) {
+                if (flashcardTermEl && flashcardDetailsPreEl && revealBtn && flashcardTopicEl) { // Check topic el too
+                     console.log("Loading initial flashcard...");
+                     loadRandomCard();
+                     flashcardLoadedOnce = true;
+                } else {
+                     console.error("Flashcard elements not found for initial load.");
+                }
+            }
+        }
+        function toggleDetails(termElement) { /* ... */
+             const detailsElement = termElement.nextElementSibling;
+            const arrowIcon = termElement.querySelector('svg');
+            detailsElement?.classList.toggle('hidden');
+            termElement.classList.toggle('bg-slate-50');
+            arrowIcon?.classList.toggle('rotate-180');
+        }
+
+        // --- Flashcard Functions (Updated loadRandomCard) ---
+        function loadRandomCard() {
+            // Check all required elements exist
+            if (!flashcardTermEl || !flashcardDetailsPreEl || !revealBtn || !flashcardDetailsContainerEl || !flashcardTopicEl) {
+                console.error("Cannot load card: one or more flashcard elements are missing.");
+                return;
+            }
+
+            // Reset display before fetching new data
+            flashcardTopicEl.textContent = ''; // Clear topic
+            flashcardTermEl.textContent = 'Cargando...';
+            flashcardDetailsPreEl.textContent = '';
+            flashcardDetailsContainerEl.classList.add('hidden'); // Hide details
+            revealBtn.textContent = 'Mostrar Detalles';
+            revealBtn.disabled = true; // Disable button while loading
+
+            // Fetch data
+            fetch('/get_random_card')
+                .then(response => {
+                    if (!response.ok) { throw new Error(`HTTP error! status: ${response.status}`); }
+                    return response.json();
+                 })
+                .then(data => {
+                    // Check for API error or missing data
+                    if (data.error || !data.topic || !data.term || !data.details) {
+                        console.error("Error in fetched data:", data.error || "Missing fields");
+                        flashcardTopicEl.textContent = '-';
+                        flashcardTermEl.textContent = 'Error al cargar';
+                        flashcardDetailsPreEl.textContent = data.error || "Datos inválidos recibidos.";
+                    } else {
+                        // *** Populate Topic, Term, and Details ***
+                        flashcardTopicEl.textContent = data.topic;
+                        flashcardTermEl.textContent = data.term;
+                        flashcardDetailsPreEl.textContent = data.details.join('\n');
+                        revealBtn.disabled = false; // Re-enable button
+                    }
+                })
+                .catch(error => {
+                    // Handle network or fetch errors
+                    console.error('Error fetching flashcard:', error);
+                    flashcardTopicEl.textContent = '-';
+                    flashcardTermEl.textContent = 'Error de conexión';
+                    flashcardDetailsPreEl.textContent = `Detalles del error: ${error.message}`;
+                    revealBtn.disabled = true; // Keep disabled on error
+                });
+        }
+
+        function revealDetails() { /* ... */
+             if (!flashcardDetailsContainerEl || !revealBtn) return;
+            const isHidden = flashcardDetailsContainerEl.classList.contains('hidden');
+            if (isHidden) {
+                flashcardDetailsContainerEl.classList.remove('hidden');
+                revealBtn.textContent = 'Ocultar Detalles';
+            } else {
+                flashcardDetailsContainerEl.classList.add('hidden');
+                revealBtn.textContent = 'Mostrar Detalles';
+            }
+         }
+
+        // --- Initialization (no changes needed) ---
+        document.addEventListener('DOMContentLoaded', () => { /* ... */
+            console.log("DOM fully loaded and parsed");
+            const initiallyActiveButton = document.querySelector('.tab-button.data-tab-active');
+            if (initiallyActiveButton) {
+                 const initialTabName = initiallyActiveButton.getAttribute('data-tab');
+                 console.log(`Initial active tab detected: ${initialTabName}`);
+                 openTab(initiallyActiveButton, initialTabName);
+            } else {
+                 console.log("No initially active tab detected, activating first button.");
+                 const firstButton = document.querySelector('.tab-button');
+                 if(firstButton){
+                     const initialTabName = firstButton.getAttribute('data-tab');
+                     openTab(firstButton, initialTabName);
+                 } else {
+                      console.log("No tab buttons found, showing browse content.");
+                      document.getElementById('browse')?.classList.remove('hidden');
+                 }
+            }
+        });
+    </script>
+    <footer class="mt-12 py-6 border-t border-slate-200 text-center text-sm text-slate-600 bg-gradient-to-b from-slate-50 to-slate-100 shadow-inner">
+        <div class="max-w-3xl mx-auto px-4">
+            <div class="flex flex-col md:flex-row items-center justify-center gap-2 mb-2">
+
+                <p class="text-slate-700">Esta herramienta es <strong>exclusivamente</strong> para fines educativos.</p>
+            </div>
+            <p class="text-slate-600">Los datos presentados <strong class="text-red-600">NO</strong> deben utilizarse para decisiones clínicas reales ni reemplazan el juicio médico profesional. Solamente una herramienta de estudio basada en apuntes.</p>
+        </div>
+    </footer>
+</body>
+</html>

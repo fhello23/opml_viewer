@@ -21,10 +21,6 @@ def _get_details_recursive(outline_element, depth=0):
     for child in outline_element.findall('outline'):
         details.extend(_get_details_recursive(child, depth + 1))
 
-    if depth == 0 and element_text and len(details) > 1:
-        return details[1:]
-    elif depth==0 and not element_text:
-         return details[1:]
     return details
 
 

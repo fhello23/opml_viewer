@@ -141,7 +141,18 @@ document.addEventListener('DOMContentLoaded', () => {
             // Store selection in local storage
             if (window.opmlStorage) {
                 const fileName = this.parentElement.querySelector('span').textContent.trim();
-                window.opmlStorage.selectDbFile(fileName);
+                const filePath = this.value;
+                
+                // Extract just the file name without path and extension
+                let displayName = fileName;
+                
+                // When we have a path, use just the filename part
+                if (filePath.includes('/')) {
+                    const pathParts = filePath.split('/');
+                    displayName = pathParts[pathParts.length - 1].replace('.opml', '');
+                }
+                
+                window.opmlStorage.selectDbFile(displayName);
             }
         });
     });

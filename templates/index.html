@@ -32,16 +32,6 @@
         {% endif %}
     {% endwith %}
 
-    <!-- Current File Display -->
-    <div id="current-file-display" class="mb-4 text-center text-slate-600">
-        <p>Current file: 
-            <span id="current-filename" class="font-medium text-slate-900">
-                Loading...
-            </span>
-            <span id="temp-indicator" class="ml-2 text-xs text-blue-600 hidden">(Stored in your browser - not on the server)</span>
-        </p>
-    </div>
-
     <div class="mb-4 border-b border-slate-300 flex flex-wrap">
         <button class="tab-button data-tab-active py-2 px-4 -mb-px border-b-2 border-blue-600 text-blue-600 font-semibold bg-transparent focus:outline-none" data-tab="browse" onclick="openTab(this, 'browse')">
             Browse Content
@@ -103,8 +93,6 @@
         const flashcardDetailsPreEl = flashcardDetailsContainerEl?.querySelector('pre');
         const revealBtn = document.getElementById('reveal-button');
         const browseContentEl = document.getElementById('browse-content');
-        const currentFilenameEl = document.getElementById('current-filename');
-        const tempIndicatorEl = document.getElementById('temp-indicator');
         
         let cardsData = null;
         let flashcardLoadedOnce = false; // Flag for initial load
@@ -141,21 +129,10 @@
             // Check if we have data in localStorage
             if (window.opmlStorage) {
                 const data = window.opmlStorage.getParsedData();
-                const currentFileType = window.opmlStorage.getCurrentFileType();
                 
                 if (data && data.cards) {
                     // We have client-side data
                     cardsData = data.cards;
-                    
-                    // Show file name
-                    if (currentFileType === 'uploaded') {
-                        const filename = window.opmlStorage.getUploadedFilename();
-                        currentFilenameEl.textContent = filename || 'Uploaded file';
-                        tempIndicatorEl.classList.remove('hidden');
-                    } else if (currentFileType && currentFileType.startsWith('db:')) {
-                        currentFilenameEl.textContent = currentFileType.substring(3);
-                        tempIndicatorEl.classList.add('hidden');
-                    }
                     
                     // Render the browse content
                     renderBrowseContent(cardsData);
@@ -175,12 +152,6 @@
                         showErrorMessage("Error loading OPML data: " + data.error);
                     } else {
                         cardsData = data.cards;
-                        currentFilenameEl.textContent = data.current_file || 'Unknown file';
-                        if (data.using_uploaded) {
-                            tempIndicatorEl.classList.remove('hidden');
-                        } else {
-                            tempIndicatorEl.classList.add('hidden');
-                        }
                         renderBrowseContent(cardsData);
                     }
                 })
@@ -324,6 +295,7 @@
                 <p class="text-slate-700">OPML Viewer - A tool for viewing and interacting with OPML files</p>
             </div>
             <p class="text-slate-600">Drag and drop your OPML files to visualize them as cards and flashcards.</p>
+            <p class="text-red-600 font-semibold mt-2">IMPORTANT: The information contained in database OPML files is for educational purposes only and should NEVER be trusted for real-life situations. Medical or other critical information should always be verified with reliable sources.</p>
         </div>
     </footer>
 </body>

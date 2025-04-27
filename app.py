@@ -27,6 +27,19 @@ def get_available_opml_files():
     ttos_files = glob.glob(f"{TTOS_FOLDER}/*.opml")
     return ttos_files
 
+# Helper function to extract clean filename
+def get_clean_filename(file_path):
+    if not file_path:
+        return "Unknown file"
+    
+    # Get just the filename without path
+    filename = os.path.basename(file_path)
+    
+    # Remove the extension
+    clean_name = os.path.splitext(filename)[0]
+    
+    return clean_name
+
 # Function to clean up old temporary files (older than 1 hour)
 def cleanup_temp_files():
     now = datetime.now()
@@ -93,10 +106,13 @@ def get_opml_data():
     if not cards_data:
         return jsonify({"error": "No card data available"}), 500
     
+    # Get display name for file
+    display_filename = uploaded_filename if using_uploaded else get_clean_filename(file_path)
+    
     # Return the data in JSON format
     return jsonify({
         "cards": cards_data,
-        "current_file": file_path if not using_uploaded else uploaded_filename,
+        "current_file": display_filename,
         "using_uploaded": using_uploaded
     })
 
@@ -172,7 +188,10 @@ def select_file():
     
     if selected_file and os.path.exists(selected_file):
         session['current_opml'] = selected_file
-        flash(f'Now using: {os.path.basename(selected_file)}', 'success')
+        
+        # Get clean filename for flash message
+        clean_name = get_clean_filename(selected_file)
+        flash(f'Now using: {clean_name}', 'success')
     else:
         flash('Selected file not found', 'error')
     

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPML Viewer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="{{ url_for('static', filename='opml_storage.js') }}"></script>
+    <script src="{{ url_for('static', filename='drag_drop.js') }}"></script>
+</head>
+<body class="min-h-screen flex flex-col bg-slate-50 text-slate-900">
+    <div class="flex-grow flex flex-col items-center justify-center p-4 md:p-8">
+        <!-- Flash Messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                <div class="mb-6 w-full max-w-lg">
+                    {% for category, message in messages %}
+                        <div class="p-3 rounded-md {% if category == 'error' %}bg-red-100 text-red-700 border border-red-300{% else %}bg-green-100 text-green-700 border border-green-300{% endif %}">
+                            {{ message }}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+
+        <div class="text-center mb-12">
+            <h1 class="text-3xl md:text-4xl font-bold text-slate-800 mb-4">OPML Viewer</h1>
+            <p class="text-slate-600 max-w-2xl">View and interact with OPML files. Browse content by topic, use flashcards for learning, and more.</p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-4xl">
+            <!-- Upload Option -->
+            <div class="bg-white border border-slate-200 rounded-xl shadow-md overflow-hidden">
+                <div class="p-6 flex flex-col items-center">
+                    <div class="w-16 h-16 mb-4 bg-blue-100 rounded-full flex items-center justify-center">
+                        <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"></path>
+                        </svg>
+                    </div>
+                    <h2 class="text-xl font-semibold text-slate-800 mb-3">Upload Your OPML</h2>
+                    <p class="text-slate-600 text-center mb-6">Upload your own OPML file to view and interact with its content. The file will be available in your browser during this session.</p>
+                    
+                    <form id="upload-form" action="/upload" method="post" enctype="multipart/form-data" class="w-full">
+                        <div id="drop-zone" class="border-2 border-dashed border-slate-300 rounded-lg p-6 text-center cursor-pointer hover:border-slate-400 transition-colors duration-150 mb-4">
+                            <p class="text-slate-600 font-medium mb-1">Drag & drop your OPML file here</p>
+                            <p class="text-slate-500 text-sm mb-4">or click to select a file</p>
+                            <input id="file-input" type="file" name="file" accept=".opml" class="hidden" />
+                            <button type="button" class="bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors duration-150">
+                                Browse Files
+                            </button>
+                        </div>
+                        <p id="upload-status" class="mt-3 text-center hidden"></p>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Database Option -->
+            <div class="bg-white border border-slate-200 rounded-xl shadow-md overflow-hidden">
+                <div class="p-6 flex flex-col items-center">
+                    <div class="w-16 h-16 mb-4 bg-green-100 rounded-full flex items-center justify-center">
+                        <svg class="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"></path>
+                        </svg>
+                    </div>
+                    <h2 class="text-xl font-semibold text-slate-800 mb-3">Use from Database</h2>
+                    <p class="text-slate-600 text-center mb-6">Choose from our collection of OPML files in the database.</p>
+                    
+                    {% if available_files %}
+                        <form action="/select_file" method="post" class="w-full">
+                            <div class="space-y-2 mb-4 max-h-40 overflow-y-auto bg-slate-50 border border-slate-200 rounded-md p-2">
+                                {% for file_path in available_files %}
+                                    <div class="file-item p-2 border border-slate-200 rounded-md hover:bg-slate-100">
+                                        <label class="flex items-center space-x-2 cursor-pointer">
+                                            <input type="radio" name="file_path" value="{{ file_path }}" class="form-radio h-4 w-4 text-green-600 focus:ring-green-500">
+                                            <span class="font-medium text-slate-800">{{ file_path.replace('ttos/', '').replace('.opml', '') }}</span>
+                                        </label>
+                                    </div>
+                                {% endfor %}
+                            </div>
+                            <button type="submit" class="bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-4 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2 transition-colors duration-150 w-full">
+                                Select and Continue
+                            </button>
+                        </form>
+                    {% else %}
+                        <div class="bg-orange-100 text-orange-800 p-4 rounded-lg text-center w-full">
+                            <p>No OPML files found in the database.</p>
+                        </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+        
+        <!-- Continue with previous session if available -->
+        <div id="continue-session" class="mt-8 hidden">
+            <div class="bg-blue-50 border border-blue-200 rounded-lg p-4 text-center">
+                <p class="text-blue-800 mb-2">You have a previously uploaded file: <span id="previous-file-name" class="font-semibold"></span></p>
+                <div class="flex justify-center space-x-4 mt-2">
+                    <button id="continue-btn" class="bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-colors duration-150">
+                        Continue Session
+                    </button>
+                    <button id="clear-session-btn" class="bg-slate-200 hover:bg-slate-300 text-slate-800 font-medium py-2 px-4 rounded-md focus:outline-none focus:ring-2 focus:ring-slate-500 focus:ring-offset-2 transition-colors duration-150">
+                        Clear Session
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="mt-12 py-6 border-t border-slate-200 text-center text-sm text-slate-600 bg-gradient-to-b from-slate-50 to-slate-100 shadow-inner">
+        <div class="max-w-3xl mx-auto px-4">
+            <p class="text-slate-600">OPML Viewer - A tool for viewing and interacting with OPML files</p>
+            <p class="text-slate-500 text-xs mt-2">Files uploaded are stored in your browser's local storage and are not sent to any server</p>
+        </div>
+    </footer>
+    
+    <script>
+        // Check if we have a previous session
+        document.addEventListener('DOMContentLoaded', () => {
+            const continueSection = document.getElementById('continue-session');
+            const previousFileName = document.getElementById('previous-file-name');
+            const continueBtn = document.getElementById('continue-btn');
+            const clearSessionBtn = document.getElementById('clear-session-btn');
+            
+            // Check if we have an uploaded file
+            if (window.opmlStorage && window.opmlStorage.hasUploadedFile()) {
+                const fileName = window.opmlStorage.getUploadedFilename();
+                if (fileName) {
+                    previousFileName.textContent = fileName;
+                    continueSection.classList.remove('hidden');
+                    
+                    // Set up continue button
+                    continueBtn.addEventListener('click', () => {
+                        window.location.href = '/viewer';
+                    });
+                    
+                    // Set up clear button
+                    clearSessionBtn.addEventListener('click', () => {
+                        window.opmlStorage.clearUploadedFile();
+                        continueSection.classList.add('hidden');
+                    });
+                }
+            }
+        });
+    </script>
+</body>
+</html> 

@@ -25,10 +25,11 @@ def _get_details_recursive(outline_element, depth=0):
 
 
 def parse_opml(filepath='ttos.op'):
-    """Parses the OPML file and extracts 'cards'."""
+    """Parses the OPML file from a file path and extracts 'cards'."""
     try:
         tree = ET.parse(filepath)
         root = tree.getroot()
+        return _process_opml_root(root)
     except FileNotFoundError:
         print(f"Error: File not found at {filepath}")
         return []
@@ -36,6 +37,20 @@ def parse_opml(filepath='ttos.op'):
         print(f"Error: Could not parse XML in {filepath}")
         return []
 
+
+def parse_opml_file(file_obj):
+    """Parses the OPML from a file-like object and extracts 'cards'."""
+    try:
+        tree = ET.parse(file_obj)
+        root = tree.getroot()
+        return _process_opml_root(root)
+    except ET.ParseError as e:
+        print(f"Error: Could not parse XML from file object: {e}")
+        return []
+
+
+def _process_opml_root(root):
+    """Process the parsed OPML root and extract cards."""
     cards = []
     body = root.find('body')
     if body is None:

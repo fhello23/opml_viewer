@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,python,flask,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,flask,visualstudiocode
+# Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,flask,python,venv
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,flask,python,venv
 
 ### Flask ###
 instance/*
@@ -292,6 +292,18 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+pip-selfcheck.json
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -311,4 +323,8 @@ pyrightconfig.json
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,python,flask,visualstudiocode
+
+ttos/
+*.opml
+
+# End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,flask,python,venv

@@ -10,7 +10,7 @@ This nifty little web app lets you:
 
 It's perfect for students, lifelong learners, or anyone who loves organizing thoughts in outlines and wants a quick way to review them.
 
-##🚀 Features
+## 🚀 Features
 
 * **Easy Upload:** Drag-and-drop your `.opml` file right onto the landing page, or browse to select it.
 * **Database Mode:** Pre-load OPML files into the `ttos/` folder for quick selection.

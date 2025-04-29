@@ -325,6 +325,6 @@ pip-selfcheck.json
 
 
 ttos/
-*.opml
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,flask,python,venv
+

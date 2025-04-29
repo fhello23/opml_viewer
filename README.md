@@ -79,7 +79,7 @@ The primary goal of this tool is educational review.
 
 **IMPORTANT:** The information contained in OPML files viewed with this tool (especially those from the "database") is for **educational purposes only**. It should **NEVER** be trusted for real-life situations without verification. Medical, financial, or other critical information *must* always be confirmed with reliable, primary sources.
 
-##💡 Future Ideas
+## 💡 Future Ideas
 
 * Search functionality within the browse view.
 * Different flashcard modes (e.g., spaced repetition hints).

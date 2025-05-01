@@ -1,0 +1,1949 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Bacteriología</title>
+    </head>
+    <body>
+        <outline text="Bacteriología">
+            <outline text="Elementos
+Estructurales
+Generales">
+                <outline text="Peptidoglicano">
+                    <outline text="Componente esencial"></outline>
+                    <outline text="Solo presente en
+pared celular"></outline>
+                    <outline text="Formado por Acido Murámico (AM) y
+Acetilglucosamina (AG)"></outline>
+                    <outline text="Rol transpeptidasa (PBP)"></outline>
+                </outline>
+                <outline text="Estructuras Variables">
+                    <outline text="Exopolisacáridos:
+glucocaliz y cápsula"></outline>
+                    <outline text="Cápsula"></outline>
+                    <outline text="Fimbrias"></outline>
+                    <outline text="Flagelos"></outline>
+                    <outline text="Pili"></outline>
+                    <outline text="Esporas"></outline>
+                </outline>
+            </outline>
+            <outline text="Clasificaciones">
+                <outline text="Forma">
+                    <outline text="Coccus"></outline>
+                    <outline text="Bacillus"></outline>
+                    <outline text="Vibrio"></outline>
+                    <outline text="Cocobacilus"></outline>
+                    <outline text="Spirocheta"></outline>
+                    <outline text="Fusiforme"></outline>
+                </outline>
+                <outline text="Agrupaciones">
+                    <outline text="Cocáceas">
+                        <outline text="Cadenas"></outline>
+                        <outline text="Pares"></outline>
+                        <outline text="Racimos"></outline>
+                    </outline>
+                    <outline text="Bacilos"></outline>
+                </outline>
+                <outline text="Pared">
+                    <outline text="Gram (+)">
+                        <outline text="Pared gruesa de peptidoglicano
+seguida por membrana plasmática"></outline>
+                    </outline>
+                    <outline text="Gram (-)">
+                        <outline text="Membrana externa"></outline>
+                        <outline text="Espacio periplasmico"></outline>
+                        <outline text="Pared delgada de
+peptidoglicano"></outline>
+                        <outline text="Membrana plasmática"></outline>
+                    </outline>
+                </outline>
+                <outline text="Metabolismo">
+                    <outline text="Aerobios (oxidación)"></outline>
+                    <outline text="Anaerobios
+(fermentación)"></outline>
+                </outline>
+            </outline>
+            <outline text="Membrana Externa">
+                <outline text="Capa lipopolisacárido">
+                    <outline text="Lípido A: endotoxina"></outline>
+                    <outline text="Antígeno O: Tipificación e
+identificación serológica"></outline>
+                </outline>
+                <outline text="Proteínas que se usan como
+antígenos para vacunas (OMP)"></outline>
+            </outline>
+            <outline text="Bacterias que no se observan
+con tinción de gram">
+                <outline text="Sin Pared">
+                    <outline text="Mycoplasma spp."></outline>
+                </outline>
+                <outline text="Intracelulares estrictas">
+                    <outline text="Chlamydias"></outline>
+                    <outline text="Riquettsia"></outline>
+                    <outline text="Legionella"></outline>
+                </outline>
+                <outline text="Demasiado
+delgadas:
+espiroquetas">
+                    <outline text="Espiráculoles móviles"></outline>
+                    <outline text="Pared similar a gram -"></outline>
+                    <outline text="Treponema,
+borrelia, leptospira"></outline>
+                </outline>
+                <outline text="Otros">
+                    <outline text="Capa externa de alto contenido lipídico
+que altera la afinidad tentorial"></outline>
+                    <outline text="Bacilos OH resistentes"></outline>
+                    <outline text="Se usa tinción de
+Ziehl-Nielsen o Kinyoun"></outline>
+                    <outline text="M. Tuberculosis"></outline>
+                </outline>
+            </outline>
+            <outline text="Patógenos">
+                <outline text="Patogenicidad">
+                    <outline text="Capacidad de un MO de producir daño
+en un hospedero específico"></outline>
+                </outline>
+                <outline text="Patógeno">
+                    <outline text="MO capaz de
+producir daño"></outline>
+                </outline>
+                <outline text="Virulencia">
+                    <outline text="Medida del grado de
+patogenicidad de un MO"></outline>
+                    <outline text="Depende de">
+                        <outline text="Número de MO"></outline>
+                        <outline text="Factores de virulencia"></outline>
+                        <outline text="Defensa del huesped"></outline>
+                    </outline>
+                    <outline text="Cual es la más virulenta">
+                        <outline text="Dosis invectiva">
+                            <outline text="M. Tuberculosis: 10"></outline>
+                            <outline text="Vibrio cholera:
+100.000.000"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="Tipos">
+                    <outline text="Primario o patógeno
+estricto"></outline>
+                    <outline text="Oportunista"></outline>
+                </outline>
+            </outline>
+            <outline text="Mecanismos de
+Patogenicidad">
+                <outline text="Invasión"></outline>
+                <outline text="Toxicidad">
+                    <outline text="Productos bacterianos que
+actúan a distancia"></outline>
+                </outline>
+                <outline text="Sistema Inmune">
+                    <outline text="Hipersensibilidad"></outline>
+                    <outline text="Autoinmunidad"></outline>
+                </outline>
+            </outline>
+            <outline text="Endotoxinas y Exotoxinas
+(lipopolisacaridos)">
+                <outline text="Exotoxinas">
+                    <outline text="En G(+) y G(-)"></outline>
+                    <outline text="Excretadas por
+celulas vivas"></outline>
+                    <outline text="Inestable"></outline>
+                    <outline text="Muy antigénicas"></outline>
+                    <outline text="Tóxicas"></outline>
+                    <outline text="Generalmente no
+producen fiebre"></outline>
+                </outline>
+                <outline text="Endotoxinas">
+                    <outline text="Parte integral de la célula"></outline>
+                    <outline text="Solo en G(-)"></outline>
+                    <outline text="Lípido A generalmente"></outline>
+                    <outline text="Debilmente inmunogénico"></outline>
+                    <outline text="Moderadamente tóxico"></outline>
+                    <outline text="Generan fiebre por IL-1"></outline>
+                </outline>
+            </outline>
+            <outline text="Microbiota">
+                <outline text="Generalidades">
+                    <outline text="Conjunto de microorganismos que
+tienen una relación de mutualismo o
+comensal con el hospedero"></outline>
+                </outline>
+                <outline text="Piel">
+                    <outline text="Secreción piel rica
+en nutrientes"></outline>
+                    <outline text="Colonizan folículo piloso y
+glándulas sebáceas"></outline>
+                    <outline text="Principalmente G(+) --&gt; S.
+Aureus y S. Epidermidis"></outline>
+                    <outline text="Otros como micrococcus,
+propinebacterium acnes"></outline>
+                </outline>
+                <outline text="Tracto Respiratorio ">
+                    <outline text="Staphylococcus
+coagulata negativo"></outline>
+                    <outline text="Strepto mutans"></outline>
+                    <outline text="S. Viridian"></outline>
+                    <outline text="Espiroquetas"></outline>
+                    <outline text="Neissearias (no
+patógenas)"></outline>
+                    <outline text="Haemophilus spp."></outline>
+                    <outline text="Levaduras y anaerobios"></outline>
+                </outline>
+                <outline text="GI">
+                    <outline text="Estómago">
+                        <outline text="Lactobacillus spp."></outline>
+                    </outline>
+                    <outline text="Colon">
+                        <outline text="Anaerobios estríctos">
+                            <outline text="Bactericides, peptostreptococcus,
+fusobacterium, clostridium"></outline>
+                        </outline>
+                        <outline text="Anaerobios facultativos">
+                            <outline text="Enterobacterias"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="Tracto Genital Femenino">
+                    <outline text="Lactobacillus"></outline>
+                    <outline text="Staph"></outline>
+                    <outline text="Strepto"></outline>
+                    <outline text="Gardenella vaginali"></outline>
+                    <outline text="Ureoplasma"></outline>
+                    <outline text="Anaerobios"></outline>
+                    <outline text="Levaduras (portación 20% candida albinas)"></outline>
+                </outline>
+            </outline>
+            <outline text="Sitios Estériles">
+                <outline text="SNC"></outline>
+                <outline text="Oido medio e interno"></outline>
+                <outline text="Tracto respiratorio inferior"></outline>
+                <outline text="Tracto urinario superior"></outline>
+                <outline text="Útero, endometrio,
+trompas, cervix"></outline>
+                <outline text="Sangre, médula osea"></outline>
+                <outline text="Líquido articular,
+pleural, peritoneal"></outline>
+            </outline>
+            <outline text="Transferencia Horizontal
+de Genes (THG)">
+                <outline text="Permite variabilidad genética y evolución
+bacteriana, generando la capacidad de
+adaptarse a las variaciones del medio"></outline>
+                <outline text="Mecanismos">
+                    <outline text="Transducción">
+                        <outline text="Transferencia de material
+genético de una bacteria a otra
+mediante un bacteriófago. El
+Bacteriófago puede integrarse en el genoma bacteriano y al
+transferirse a otra bacteria puede
+llevar parte del genoma de esta bacteria y así trasferir genes,
+entre ellos genes de resistencia
+antimicrobiana."></outline>
+                        <outline text="Bacteriófago es un virus
+que infecta bacterias"></outline>
+                    </outline>
+                    <outline text="Transformación">
+                        <outline text="Es la captura de DNA
+extracelular del medio
+ambiente. Este puede
+integrarse en el genoma y
+expresarse"></outline>
+                    </outline>
+                    <outline text="Conjugación">
+                        <outline text="Proceso en que ocurre la
+transferencia de un plásmido de
+una bacteria a otra gracias a un
+contacto cercano entre ambas,
+mediante un poro de conjugación o
+pili sexual."></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Elementos genéticos
+Móviles">
+                <outline text="Plásmidos">
+                    <outline text="ADN
+extracromosómico,
+autorreplicativo"></outline>
+                    <outline text="Capaz de transferirse a gran un
+amplio rango de huéspedes"></outline>
+                    <outline text="Se dividen en plásticos F
+(fertilidad) y R (resistencia)">
+                        <outline text="Plásmido F puede transferir grands bloques de
+genes cromosomales Durante el proceso de
+conjugación si se hallan integrados a ADN
+cromosómico (epitomas)"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Elementos
+Transponibles">
+                <outline text="- Segmentos de DNA
+- Con capacidad para moverse entre una localización genética (sitio donador) y otra
+(sitio receptor), mediante Transposición.
+- Secuencias de Inserción o Elementos IS
+- No requieren grandes zonas de homología entre ambos sitios.
+- Enzima transposasa codificada por ET, permite"></outline>
+                <outline text="Función">
+                    <outline text="Dispersión resistencia"></outline>
+                    <outline text="Algunos
+movilizan
+integrones"></outline>
+                </outline>
+                <outline text="Tipos">
+                    <outline text="Secuensa de
+inserción o elemento
+IS">
+                        <outline text="Secuencia de DNA corta"></outline>
+                        <outline text="En ambos extremos: región pequeña de
+nucleotidos en orientación invertida,
+conocidas como inverted repeats"></outline>
+                    </outline>
+                    <outline text="Transposón">
+                        <outline text="Segméntos de DNA integrados
+al DNA cromosómico, nunca existen
+solos. IS + genes extra"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Cassetes Genéticos">
+                <outline text="Segmento de DNA que contiene gen
+sin promotor y con un sitio de
+recombinación en su extremo"></outline>
+                <outline text="Pueden existir libres como DNA
+circular (sin capacidad de
+replicación o transcripción)"></outline>
+            </outline>
+            <outline text="Integrón">
+                <outline text="DNA con capacidad de adquirir/escindir
+ORFs, por recombinación sitio específica.
+Puede convertir ORFs en genes
+funcionales."></outline>
+                <outline text="Contiene">
+                    <outline text="- Gen que codifica recombinasa sitio-específica:
+perteneciente a la familia de las integrasas (intI)
+- Un sitio adyacente (primario) de recombinación (attI):
+Sitio reconocido por intI para mediar la recombinación
+entre attI y attC
+- Un promotor fuerte: Solapa con el gen intI, orientado
+correctamente para la expresión de los genes
+incorporados."></outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Virus y Antivirales">
+            <outline text="Generalidades Virus">
+                <outline text="Agente infeccioso microscópico,
+menos complejo que las células"></outline>
+                <outline text="Cada partícula vírica o virión, consta de un único ácido
+nucleico (ARN o ADN) que codifica el genoma viral y que
+está rodeado de una cubierta proteica"></outline>
+                <outline text="Necesita células vivas para
+poder multiplicarse"></outline>
+                <outline text="Estructura">
+                    <outline text="Material Genético">
+                        <outline text="Puede ser ARN,
+ADN o ambos"></outline>
+                        <outline text="Puede ser
+monocatenario o
+bicatenario"></outline>
+                        <outline text="Las cadenas pueden estar en línea,
+circular o segmentadas"></outline>
+                        <outline text="Las cadenas de ARN pueden ir en sentido
+positivo, negativo, o con partes en sentido
+positivo y otras negativo"></outline>
+                    </outline>
+                    <outline text="Cubierta
+protéica o
+cápside">
+                        <outline text="Protege el material
+genético"></outline>
+                    </outline>
+                    <outline text="Membrana o
+bicapa lipídica">
+                        <outline text="La tienen algunos virus"></outline>
+                        <outline text="Contiene proteínas codificadas tanto por el propio
+virus como de células hospedadoras. Además, tiene
+glúcidos complejos cuyo Orígenes es exclusivamente
+de la célula hospedadora"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Ciclo Biológico Viral">
+                <outline text="1. Fijación y penetración en
+célula hospedadora mediante
+receptores específicos"></outline>
+                <outline text="2. Interiorización a través de fagocitosis. Se
+produce la decapsidación y liberación de ácido
+nucleico al citoplasma "></outline>
+                <outline text="3. Interiorización del ácido
+nucleico viral al núcleo celular (en caso de ARN, requiere
+transformación previa a ADN)"></outline>
+                <outline text="4. Multiplicación utilizándoselo la
+maquinaria genética del huésped"></outline>
+            </outline>
+            <outline text="Clasificación virus">
+                <outline text="La más utilizada es la
+clasificación de Baltimore"></outline>
+                <outline text="Se basa en el mecanismo de producción de ARNm,
+considerándooslos el tipo de material genético, la
+existencia de cadenas dobles o sensillas y si puede o
+no utilizar la transcriptas rivera"></outline>
+                <outline text="Grupo I: DNA (+/-)"></outline>
+                <outline text="Grupo II: DNA (+)"></outline>
+                <outline text="Grupo III: RNA (+/-)"></outline>
+                <outline text="Grupo IV: RNA (+)"></outline>
+                <outline text="Grupo V: RNA (-)"></outline>
+                <outline text="Grupo VI: RNA (+), utiliza
+transcriptasa reversa"></outline>
+                <outline text="Grupo VII: DNA (+/-), utiliza
+transcriptasa reversa"></outline>
+            </outline>
+            <outline text="Principales Virus
+Patógenos Actuales">
+                <outline text="VIH">
+                    <outline text="Retrovirus con cinética de
+replicación muy agresiva"></outline>
+                    <outline text="Los antígenos proteicos de la envoltura
+exterior se acoplan a los LT CD4."></outline>
+                    <outline text="La cantidad de subtipos
+dificultan el tratamiento"></outline>
+                </outline>
+                <outline text="VHC">
+                    <outline text="RNA (+). Aprovecha la maquinaria de los hepatocitos humanos,
+induciéndomelos la síntesis de una única proteína o poliproteína,
+por lo que varias protestas celulares y virales deben actuar para
+liberar las formas activas de las proteínas que la constituyen
+(Estructurales E1, E2 y no estructurales, NS1, NS2, etc). Elevada
+variabilidad genética"></outline>
+                </outline>
+                <outline text="VHB">
+                    <outline text="dsDNA, con trasncriptasa reversa. Se replica en el
+interior de los núcleos de hepatocitos infectados.
+Los principales sistemas antígeno anticuerpo son
+HBsAg, HBcAg y HBeAg"></outline>
+                </outline>
+                <outline text="Virus de la gripe">
+                    <outline text="Se conocen tres grupos, A, B y C. A y B son los que causan la
+enfermedad humana epidémica. Constituido por 8 fragmentos de
+ARN (-). Los virus A se clasifican en función a 2 proteínasnas
+antigénicas en la superficie del virón, la hemaglutinina (H) y la
+Neuraminidasa (N), responsables de la respuesta inmunológica
+del huesped"></outline>
+                </outline>
+                <outline text="Virus Herpéticos">
+                    <outline text="Los de relevancia son los VHS, VVZ,
+VEB y CMV. Son dsADN"></outline>
+                </outline>
+                <outline text="Papilomavirus">
+                    <outline text="dsDNA. En función de su potencial oncogénico se clasifican
+en tipos de bajo y alto riesgo (16 y 18 son responsables del
+70% de los cánceres cerviocales). Alta afinidad a células
+epiteliales humanas"></outline>
+                </outline>
+                <outline text="SARS-CoV-2">
+                    <outline text="RNA (+)"></outline>
+                </outline>
+            </outline>
+            <outline text="Principales Mecanismos de
+Acción Antivirales">
+                <outline text="Inhibidores
+penetración viral"></outline>
+                <outline text="Inhibidores de la replicación del
+material genético viral"></outline>
+                <outline text="Inhibidores del ensamblaje de
+nuevas partículas virales"></outline>
+                <outline text="Antivirales biológicos"></outline>
+            </outline>
+            <outline text="Inhibidores
+Penetración Viral">
+                <outline text="Inhibidores NA">
+                    <outline text="Analogía estructural
+con el ácido siálico"></outline>
+                    <outline text="Oseltamivir y Zanamivit"></outline>
+                    <outline text="Efectivos contra
+gripe A y B"></outline>
+                </outline>
+                <outline text="Aminas Cíclicas">
+                    <outline text="Amantidina, tromantadina y
+rimantadina"></outline>
+                    <outline text="Inhibe protína M2 viral, cuya activación conduce a
+la acidificáción del interior del virón, necesaria para
+la decapsidación del virus"></outline>
+                </outline>
+                <outline text="Inhibidores de la
+penetración del VIH">
+                    <outline text="Se unen a la proteína CD4, no permitiéndooslas
+la fusión de membrana celular con la cápside
+del virus y la inyección del contenido de esta
+dentro del citoplasma"></outline>
+                    <outline text="Inhibidores de los receptores de las
+quimiocinas">
+                        <outline text="Maraviroc --&gt; Inhibe el corrector
+humano de quimiocinas CCR5"></outline>
+                    </outline>
+                    <outline text="Inhibidores de la
+fusión virus célula">
+                        <outline text="Enfuvirtida --&gt; Bloquea
+penetración del VIH-1 en los LT
+CD4+"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Inhibidor de la replicación de
+material genético viral">
+                <outline text="Inhibidores de la ADN pol">
+                    <outline text="Se utilizan para el tratamiento del herpesvirus
+(VHS 1 y 2, VVZ, VEB y CMV)"></outline>
+                    <outline text="Son en general inhibidores de
+las bases nucleicas"></outline>
+                    <outline text="Ánalogos Guanosina (Los más usados)">
+                        <outline text="Aciclovir, valaciclovir "></outline>
+                        <outline text="Ganciclovir, valganciclovir"></outline>
+                        <outline text="Ribavarina"></outline>
+                    </outline>
+                    <outline text="Ánalogos Adenosina (No hay en Chile)">
+                        <outline text="Penciclovir, famciclovir"></outline>
+                    </outline>
+                    <outline text="Analogos de timidina
+(no hay en Chile)">
+                        <outline text="Birvudina, idoxuridina"></outline>
+                    </outline>
+                    <outline text="Con estructuralistas
+no nucleosídica">
+                        <outline text="Foscarnet"></outline>
+                        <outline text="2˚ línea CMV, pues
+trasplántelasnte
+hematológico"></outline>
+                    </outline>
+                </outline>
+                <outline text="Inhibidores de la
+transcriptasa reversa">
+                    <outline text="Inhibidores de la transcriptasa inversa
+análogos de nucleótidos (NRTI)">
+                        <outline text="Análogos timidina">
+                            <outline text="Zidovudine"></outline>
+                            <outline text="Estavudina"></outline>
+                            <outline text="Telbivudina"></outline>
+                        </outline>
+                        <outline text="Análogos citidina">
+                            <outline text="Iamivudina"></outline>
+                            <outline text="Emtrictabina"></outline>
+                        </outline>
+                        <outline text="Análogos guanosina">
+                            <outline text="Didanosina"></outline>
+                            <outline text="Entecavir"></outline>
+                        </outline>
+                        <outline text="Analogos adenosina">
+                            <outline text="Abcavir"></outline>
+                            <outline text="Tenofovir-disoproxil"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Inhibidores no
+nucleosídicos (NNRTI)">
+                        <outline text="En este grupo se
+incluyen fármacos cuya estructura química se aleja mucho de los nucleósidos antirretrovirales.
+Son: nevirapina, efavirenz, etravirina y rilpivirina."></outline>
+                    </outline>
+                </outline>
+                <outline text="Inhibidores de
+la integrada">
+                    <outline text="La integrate VIH familiar la
+integración del genoma del VIH en el
+genóma de la célula huesped"></outline>
+                    <outline text="Ejemplos --&gt; Los Gravar">
+                        <outline text="raltegravir"></outline>
+                        <outline text="Elvitegravir"></outline>
+                        <outline text="dolutegravir"></outline>
+                        <outline text="Bictegravir"></outline>
+                    </outline>
+                </outline>
+                <outline text="Inhibidores de la ARN Pol
+(NS5B) y de la NS5A">
+                    <outline text="NS5B --&gt;
+Sofosbuvir y
+dasabuvir"></outline>
+                    <outline text="NS5A --&gt; daclatasvir,
+ledipasvir y ombitasvir"></outline>
+                </outline>
+            </outline>
+            <outline text="Inhibidores del ensamblaje de
+nuevas partículas virales">
+                <outline text="Inhibidores de la
+proteasa (IP del VIH)">
+                    <outline text="Susceptible a resistencias. Se
+usan en combinación"></outline>
+                    <outline text="Lopinavir-ritonavir"></outline>
+                    <outline text="Darunavir"></outline>
+                    <outline text="Astazanavir"></outline>
+                    <outline text="Fosamprenavir"></outline>
+                </outline>
+                <outline text="Inhibidores de la
+proteasa del VHC">
+                    <outline text="Inhiben la protejas NS3"></outline>
+                    <outline text="Boceprevir, simeprevir, paritaprevir"></outline>
+                </outline>
+            </outline>
+            <outline text="Antivirales biológicos">
+                <outline text="Ig y Ac monoclonals">
+                    <outline text="Ig inespecíficas">
+                        <outline text="participan en fenómenos de neutralización de toxinas y
+opsonización de microorganismos, activando el sistema
+de complemento y la lisis celular mediada por
+anticuerpos, o favoreciendo la fagocitosis. En este
+grupo se incluye Beriglobina P® en prevención de la
+hepatitis A, sarampión y rubeola."></outline>
+                    </outline>
+                    <outline text="Sueros
+específicos
+antivirales">
+                        <outline text="Los sueros específicos antivirales están
+formados por un conjunto de
+inmunoglobulinas específicas. Aquí se
+incluyen la inmunoglobulina humana
+antihepatitis B y la inmunoglobulina
+humana antirrábica."></outline>
+                    </outline>
+                    <outline text="Anticuerpos
+monoclonales
+antivirales">
+                        <outline text="Entre los anticuerpos monoclonales antivirales se encuentra
+palivizumab, frente al virus sincitial respiratorio (VSR). Es un
+inhibidor de la fusión que se emplea en el tratamiento de
+enfermedades graves del tracto respiratorio inferior."></outline>
+                    </outline>
+                </outline>
+                <outline text="Citocinas: interferones">
+                    <outline text="Las citocinas son moléculas con una elevada actividad
+biológica, capaces de modificar la respuesta celular y que
+ejercen sus funciones reguladoras uniéndose a receptores
+específicos presentes en la superficie de la célula diana. Las
+citocinas de mayor interés terapéutico son los interferones
+(IFN) de tipo I y el TNF."></outline>
+                    <outline text="Los IFN se clasifican en 2 grupos. Los de tipo I, que
+incluyen el IFN-α y el β que tienen efectos antivirales y
+antiproliferativos, y el tipo II, constituido por el IFN-γ,
+con propiedades inmunomoduladoras.">
+                        <outline text="Los IFN interaccionan con sus receptores en la membrana celular, pero el efecto se produce en el núcleo.
+Los efectos producidos por las proteínas inducidas por IFN pueden ser:
+- Producción de proteínas inhibidoras del proceso de replicación.
+- Inhibición de la expresión genética.
+- Depleción de metabolitos esenciales.
+- Modulación del sistema inmunitario mediado por células.
+- Acción citotóxica"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="PrEP y PEP">
+                <outline text="PrEP">
+                    <outline text="Se toma antes de la
+conducta de riesgo"></outline>
+                    <outline text="La protección se genera
+después de la séptima toma"></outline>
+                    <outline text="No es gratuito"></outline>
+                </outline>
+                <outline text="PEP">
+                    <outline text="Previene VIH post
+conducta de riesgo"></outline>
+                    <outline text="El tratamiento dura 30 días y debe
+comenzar antes de transcurridas las
+72 horas de la exposición"></outline>
+                    <outline text="Es un servicio gratuito "></outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Hongos y Antifúngicos">
+            <outline text="Generalidades Hongos">
+                <outline text="Todos los hongos
+son eucariotas"></outline>
+                <outline text="La mayoría son microscópicos, con
+apariencia filamentosa, ramificados"></outline>
+                <outline text="Se reproducen por medio de
+esporas, las que se forman por
+mecanismos sexuales o asexuales y
+carecen de clorofila."></outline>
+                <outline text="Sus paredes celulares contienen quitinas y
+glucanos como componentes esqueléticos, los
+cuales están embebidos en una matriz de
+polisacáridos y glicoproteínas."></outline>
+                <outline text="Las enzimas producidas por las hifas sobre el sustrato
+permiten la hidrólisis de los nutrientes, que, una vez
+convertidos en material soluble son absorbidos y
+transportados a través de la membrana y usados en procesos
+metabólicos para el crecimiento y desarrollo del hongo."></outline>
+                <outline text="Los hongos crecen mejor en oscuridad, necesitan humedad
+para su desarrollo y son capaces de obtenerla de la atmósfera
+o del medio sobre el cual crecen. Cuando el ambiente se hace
+demasiado seco o las condiciones para su desarrollo son
+adversas, sobreviven entrando en latencia o produciendo
+esporas resistentes a la deshidratación"></outline>
+                <outline text="Poseen un núcleo diferenciado y organelos citoplasmáticos
+rodeados por membranas. Todas las células de los hongos están
+rodeadas por una pared celular rígida. Muchos hongos tienen
+quitina en su pared celular como el polisacárido en mayor
+proporción, otros tienen celulosa en su lugar ."></outline>
+                <outline text="La gran mayoría de los hongos tienen estructuras vegetativas
+filamentosas llamadas hifas, las cuales crecen en todas las
+direcciones; estas son generalmente uniformes y delgadas. El
+conjunto de hifas forma lo que se denomina micelio."></outline>
+                <outline text="El número de núcleos por célula puede variar entre uno
+o dos hasta encontrar células polinucleadas. El
+crecimiento del micelio es polarizado, ocurre en el ápice
+de la hifa, proliferando a lo largo y a través del sustrato.
+Muchas hifas juntas o micelio dan origen a los talos o a
+las colonias del hongo."></outline>
+                <outline text="Algunos hongos carecen de micelio y producen en
+cambio un sistema de madejas de diferente grosor
+con diámetros variados llamadas rizomicelio.
+Algunos microorganismos, antes formaban parte de
+los hongos primitivos, pero ahora son considerados
+pertenecientes al Reino Protozoa."></outline>
+                <outline text="El color del hongo aparece cuando se forman
+las estructuras reproductivas, las cuales
+contienen grandes cantidades de esporas que
+son las responsables de la diseminación."></outline>
+                <outline text="La pared celular es una estructura rígida y compleja
+que brinda protección al protoplasto, además que
+determina la forma de la célula, hecho que ayuda en la
+determinación taxonómica."></outline>
+                <outline text="Aunque, la pared celular protege, también se ha observado actividad de
+algunas enzimas importantes en los procesos de infección. Esta es una
+estructura que tiene diferente composición de acuerdo con los estadios del
+ciclo de vida, por ejemplo, la pared de las esporas es delgada pero más
+resistente que las paredes de las hifas que están en crecimiento."></outline>
+            </outline>
+            <outline text="Pared Celular">
+                <outline text="Capa rígida que rodea a
+algunos tipos de células y está
+fuera de la membrana"></outline>
+                <outline text="Es un orgánulo
+importante y distinto"></outline>
+                <outline text="La pared celular de los hongos da forma a la
+célula, controla la permeabilidad y protege en
+contra de cambios osmóticos, así como permitir
+interacción con el medio"></outline>
+                <outline text="La eliminación o defectos en formación de la
+pared tienen efectos profundos sobre el
+crecimiento y la morfología de la célula"></outline>
+                <outline text="Las especies de hongos que poseen una pared celular tienen una
+membrana plasmática y tres capas de material de la pared celular
+que la rodean: quitina, glucanos y mananos. La composición de la
+pared celular varía entre especies de hongos, pero un componente
+principal de muchas paredes de células fúngicas es β 1,3-glucano."></outline>
+            </outline>
+            <outline text="Galactomanano">
+                <outline text="Componente de la pared celular de
+los hongos Aspergillus y se liberan
+durante su crecimiento"></outline>
+                <outline text="La detección de galactomananos es una técnica
+diagnóstica en sangre y lavado broncoalveolar. Se lleva a
+cabo mediante ELISA con Ac monoclonales"></outline>
+                <outline text="Es el principal exoantígeno
+liberado durante la invasión"></outline>
+            </outline>
+            <outline text="Glucano
+(1-3-β-D-Glucano)">
+                <outline text="Componente de la pared celular de casi todos
+los hongos, excepto mucorales y en muy escasa
+cuantía en cryptococcus spp"></outline>
+                <outline text="Se utiliza para detectar las infecciones fúngicas invasivas
+por varias especies de hongos, incluidas las infecciones
+oportunistas por Pneumocystis jirovecci, y excluyendo los
+mucorales y cryptococcus"></outline>
+                <outline text="Con métodos bioquímicos se detecta la presencia de una molécula de
+azúcar (β-D- glucano). Esta molécula no suele aparecer en la sangre, por
+lo que su detección indica que hay hongos presentes (marcador
+panfúngico)"></outline>
+            </outline>
+            <outline text="Mecanismos de Acción Antifúngicos">
+                <outline text="Sobre la pared celular">
+                    <outline text="Impidiendo su síntesis"></outline>
+                </outline>
+                <outline text="Sobre la membrana">
+                    <outline text="Alterando su permeabilidad o impidiendo su
+síntesis (la mayoría), o la de componentes
+esenciales como el ergosterol"></outline>
+                </outline>
+                <outline text="Sobre los mecanismos
+implicados en la división celular"></outline>
+                <outline text="La mayoría actua sobre la síntesis de membrana.
+En esta hay ergosterol en vez de colesterol. Estos son
+los azólicos, pálienos, alilaminas y morfolinas"></outline>
+            </outline>
+            <outline text="Azólicos">
+                <outline text="Derivados Imidazólicos">
+                    <outline text="Uso exclusivo en forma tópica e
+dermatomicosis y/o candidiasis vulvovaginal"></outline>
+                    <outline text="Solo en
+afectación
+localizada"></outline>
+                    <outline text="También en candidiasis cutáneas y mucosas (excepto en IS),
+pitriasis versicolor, dermatitis seborreica. La mayoría también
+son activos frente a trichomonas"></outline>
+                    <outline text="Ejemplos">
+                        <outline text="Clotrimazol, ketoconazol,
+esconazol, butocinazol, miconazol"></outline>
+                    </outline>
+                </outline>
+                <outline text="Derivados triazólicos">
+                    <outline text="Para el tratamiento de
+micosis sistémicas"></outline>
+                    <outline text="Ejemplos">
+                        <outline text="Itraconazol, fuconazol, voriconazol,
+posaconazol, isavuconazol"></outline>
+                    </outline>
+                </outline>
+                <outline text="Mecanismo de acción">
+                    <outline text="Inhibe síntesis de ergosterol por bloqueo de
+lanosterol desmetilasa mediante la unión del
+fármaco al grupo hemogramas del cP450"></outline>
+                    <outline text="Todas inhiben la isoenzima CYP3a4,
+el fluconazole y el voriconazol inhiben
+además la CYP2C9"></outline>
+                </outline>
+                <outline text="RAM comunes">
+                    <outline text="Fluconazol e itraconazol: reacciones adversas
+fundamentalmente gastrointestinales. También
+dermatológicas y hepáticas. El daño hepático es mayor
+con ketoconazol, por lo que la EMA consideró, en 2013,
+suspender su administración sistémica."></outline>
+                    <outline text="El tratamiento con itraconazol debe ser suspendido en el caso de
+aparición de algún episodio de cefalea intenso o signos de
+insuficiencia cardiaca."></outline>
+                    <outline text="Si aparece toxicidad hematológica intensa, exantema o
+elevaciones marcadas en perfil hepático, deberá
+suspenderse el tratamiento con fluconazol."></outline>
+                    <outline text="Las reacciones adversas más frecuentes con
+voriconazol son alteraciones de la visión, fiebre,
+erupción cutánea, vómitos, náuseas, diarrea, cefalea,
+edema periférico y dolor abdominal."></outline>
+                    <outline text="Para posaconazol se describen
+náuseas y cefalea como
+acontecimientos adversos más
+frecuentes."></outline>
+                    <outline text="La incidencia de efectos adversos de los antifúngicos
+imidazólicos es escasa, y no suelen presentar
+problemas en el caso de la administración tópica."></outline>
+                </outline>
+            </outline>
+            <outline text="Fluconazol">
+                <outline text="En forma oral y
+endovenosa"></outline>
+                <outline text="Vida media &gt;24 horas, por lo que se
+administra una vez al día"></outline>
+                <outline text="Alta penetración LCR, por lo que es util en meningitis
+criptocócicas y por cocidos"></outline>
+                <outline text="Tratameinto de elección en candidemia
+en pacientes no neutropénicos"></outline>
+                <outline text="Presenta resistencia frente a especies de
+Candida no albinas. Con estas especies debe
+esperarse el antifúngigrama"></outline>
+                <outline text="Los efectos adversos más frecuentes son
+malestar gastrointestinal y exantema"></outline>
+                <outline text="Las interacciones farmacológicas son
+menos frecuentes con fluconazol que
+con otros azoles."></outline>
+                <outline text="Ajuste por función renal"></outline>
+            </outline>
+            <outline text="Voriconazol">
+                <outline text="En forma oral y
+endovenosa"></outline>
+                <outline text="Elección ante las
+infecciones por aspergillus"></outline>
+                <outline text="También puede indicarse para el tratamiento
+de las infecciones por Scedosporium
+apiospermum y Fusarium."></outline>
+                <outline text="Es eficaz en la esofagitis candidiásica y las
+candidiasis invasivas, aunque no se considera
+tratamiento de primera línea."></outline>
+                <outline text="Mayor espectro en candida en
+comparación con el fluconazole"></outline>
+                <outline text="RAM: hepatotoxicidad, trastornos visuales
+(comunes), alucinaciones, reacciones
+cutáneas y prolongamiento del QT"></outline>
+                <outline text="No requiere ajuste por función
+renal si se administra VO"></outline>
+            </outline>
+            <outline text="Polienos">
+                <outline text="Nistatina y anfotericina. La
+anfotericina solo existe IV, mientras
+que la nistatina solo existe tópica"></outline>
+                <outline text="La anfotericina B tiene UPP de 90% y su
+excreción renal es muy lenta"></outline>
+                <outline text="La excreción biliar es una vía importante.  Su t1/2 es
+de 15 días. La introducción de nuevas formulaciones
+a bajado los efectos nefrólogastoxicos y mejor acceso
+a la pared del hongo"></outline>
+                <outline text="Otras
+formulaciones
+anfotericina">
+                    <outline text="Amphocil">
+                        <outline text="Forma de
+dispersión
+coloidal"></outline>
+                        <outline text="Mejor distribución y
+menor toxicidad"></outline>
+                        <outline text="T1/2 más largo debido a acumulacón
+hepática y lenta liberación"></outline>
+                    </outline>
+                    <outline text="Ambisome ***">
+                        <outline text="Formulación liposomal"></outline>
+                        <outline text="Cmax x10 a la de las
+anfotericina B convencional."></outline>
+                        <outline text="Acaloramiento
+organico más rapido"></outline>
+                        <outline text="T1/2 de 26 horas"></outline>
+                    </outline>
+                    <outline text="Ablecet">
+                        <outline text="Formulación lipídica"></outline>
+                        <outline text="Rapida distribución"></outline>
+                        <outline text="Concentraciones tisulares
+altas, excepto en el riñon"></outline>
+                    </outline>
+                </outline>
+                <outline text="RAM">
+                    <outline text="Anfotericina B">
+                        <outline text="Fiebre, escalofríos,
+anorexia, nauseas y vómitos"></outline>
+                        <outline text="Infusión asociada a flebitis y
+tromboflebitis y la extravasiación puede
+generar necrosis tubular."></outline>
+                        <outline text="El efecto más relevante
+es la nefrotoxicidad">
+                            <outline text="Esto justifica indicación lipidica, con
+menos toxicidad a este nivel"></outline>
+                        </outline>
+                        <outline text="Ojo hipokalemia e
+hipomagnsemia"></outline>
+                        <outline text="Puede provocar AA"></outline>
+                        <outline text="En general, los efectos de la anfotericina son frecuentes e importantes y
+algunos son evitables con la administración de analgésicos, heparina,
+antihistamínicos y/o antiheméticos"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Alilaminas">
+                <outline text="Terbinafina eś el unico
+comercializado"></outline>
+                <outline text="Existe la formulación
+tópica y sistémica"></outline>
+                <outline text="Tras su absorción oral se concentra en
+el estrato córneo lipofílico."></outline>
+                <outline text="También se excreta en la grasa, alcanzándo
+concentraciones elevadas en folículo piloso,
+pelo y pieles ricas en grasa"></outline>
+                <outline text="Se metaboliza rápido por u mínimo de 7
+isoenzimas CYP y los metabólicos carecen
+de actividad antifúngica"></outline>
+                <outline text="Su excreción es casi total por la orina"></outline>
+                <outline text="La biodisponibilidad sistémica en la administración
+tópica es muy baja, por lo que sus efectos adversos
+son leves y transitorios, localizados en el lugar de
+aplicación, apareciendo raramente reacciones
+alérgicas."></outline>
+            </outline>
+            <outline text="Equinocandinas">
+                <outline text="Son lipopéptidos que inhiben el
+crecimiento fúngico de forma no
+competitiva"></outline>
+                <outline text="bloquea la síntesis de β1,3-glucano, lo que
+disminuye la integridad estructural celular y la
+morfología y finalmente da como resultado la lisis
+osmótica de la célula."></outline>
+                <outline text="Ejemplos">
+                    <outline text="Caspofungica"></outline>
+                    <outline text="Anidulafungica"></outline>
+                    <outline text="Micafungica"></outline>
+                </outline>
+                <outline text="Uso de anidulafungica solo
+autorizado en adultos, mientras que
+los otros 2 en niños también"></outline>
+                <outline text="Ejercen un efecto fungicida que es activo sobre
+diversas especies de Aspergillus
+(caspofungina) y Candida (incluyendo cepas
+de Candida resistentes a anfotericina y
+fluconazol)."></outline>
+                <outline text="Comparadas con los antifúngicos triazólicos tienen una
+incidencia notablemente inferior de efectos adversos."></outline>
+                <outline text="Comparadas con los antifúngicos triazólicos tienen una
+incidencia notablemente inferior de efectos adversos."></outline>
+                <outline text="RAM">
+                    <outline text="Las reacciones adversas más frecuentes son fiebre y escalofríos,
+cefalea, náuseas/vómitos, diarrea o erupción cutánea, y con menor
+frecuencia hipotensión, taquicardia, flebitis/tromboflebitis y
+reacciones exantemáticas."></outline>
+                    <outline text="Incremento en los valores del perfil hepático
+transaminasas, de fosfatasa alcalina y bilirrubina, hipopotasemia y
+leucopenia."></outline>
+                    <outline text=" Con caspofungina se ha observado además aumento de los niveles de
+creatinina, disminución del hematocrito y trombocitopenia.">
+                        <outline text=" Usar con precaución con pacientes con daño hepático crónico (no con Child C)."></outline>
+                    </outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Conceptos
+Farmacología">
+            <outline text="Mecanismo
+acción ATB">
+                <outline text="Inhibidores síntesis
+pared celular">
+                    <outline text="Betalactámicos"></outline>
+                </outline>
+                <outline text="Inhibidores
+síntesis de folato">
+                    <outline text="Sulfamifda"></outline>
+                    <outline text="Trimetoprima"></outline>
+                </outline>
+                <outline text="Inhibidores ADN grasa">
+                    <outline text="Quinolonas"></outline>
+                </outline>
+                <outline text="Inhibidores RNA pol">
+                    <outline text="Rifampicina"></outline>
+                </outline>
+                <outline text="Inhibidores de la
+síntesis de proteínas">
+                    <outline text="Tetraciclinas"></outline>
+                    <outline text="Aminoglucósidos"></outline>
+                    <outline text="Macrólidos"></outline>
+                </outline>
+            </outline>
+            <outline text="Farmacocinética">
+                <outline text="Lo que el organismo le
+hace al fármaco"></outline>
+                <outline text="Pasos">
+                    <outline text="Absorción"></outline>
+                    <outline text="Distribución"></outline>
+                    <outline text="Metabolismo"></outline>
+                    <outline text="Excretion"></outline>
+                </outline>
+            </outline>
+            <outline text="Vías Administración">
+                <outline text="Enterales (sistema GI)">
+                    <outline text="Oral"></outline>
+                    <outline text="Sublingual"></outline>
+                    <outline text="Rectal"></outline>
+                </outline>
+                <outline text="Parenteral">
+                    <outline text="IV"></outline>
+                    <outline text="IM"></outline>
+                    <outline text="Subcutánea"></outline>
+                </outline>
+                <outline text="Otras">
+                    <outline text="Inhalators"></outline>
+                    <outline text="Transdermica"></outline>
+                    <outline text="Tópica"></outline>
+                    <outline text="Vainal"></outline>
+                    <outline text="Ocular"></outline>
+                    <outline text="Nasal"></outline>
+                </outline>
+            </outline>
+            <outline text="Características que
+afectan la absorción">
+                <outline text="Características
+físicas del farmaco">
+                    <outline text="Tamaño molecular"></outline>
+                    <outline text="Liposolubilidad o
+hidrosolubilidad"></outline>
+                    <outline text="pH molecular"></outline>
+                </outline>
+                <outline text="Características de la
+forma farmaceutica">
+                    <outline text="Formulación (polvo,
+cápsula, etc)"></outline>
+                    <outline text="Tamaño partícula"></outline>
+                </outline>
+                <outline text="Características
+lugar absorción">
+                    <outline text="Vía administración"></outline>
+                    <outline text="Superficie y espesor
+de membrana"></outline>
+                    <outline text="Flujo sanguíneo"></outline>
+                    <outline text="pH del medio"></outline>
+                    <outline text="Tiempo de cotacto"></outline>
+                </outline>
+            </outline>
+            <outline text="Biodisponibilidad">
+                <outline text="AUC oral / AUC
+inyectado x 100"></outline>
+                <outline text="Mejor BD">
+                    <outline text="Quinolonas"></outline>
+                    <outline text="BL"></outline>
+                    <outline text="TMP/SMX"></outline>
+                </outline>
+            </outline>
+            <outline text="Distribución">
+                <outline text="Factores relevantes">
+                    <outline text="Características
+fisicoquímicas">
+                        <outline text="Hidrofílicos">
+                            <outline text="Ejemplos son los
+aminoglicósidfos,
+betalactamicos"></outline>
+                            <outline text="Clearance renal, tiempo de distribución
+limitado al espacio extracelular"></outline>
+                            <outline text="En sepsis se necesita aumento
+de dosis e incremento o baja en
+dosis de mantención"></outline>
+                        </outline>
+                        <outline text="Lipofílicos">
+                            <outline text="Ejemplos son las quinolonas,
+macrólidos, tetraciclinas, lincosamidas"></outline>
+                            <outline text="Distribución en tejidos con
+acumulación intracelular"></outline>
+                            <outline text="Clearance hepático"></outline>
+                            <outline text="En sepsis no se necesita incrementar
+carga ni dosis de mantenimiento"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="UPP">
+                        <outline text="Albúmina"></outline>
+                        <outline text="A1 - glycoproteins"></outline>
+                    </outline>
+                    <outline text="Volumen de
+distribución">
+                        <outline text="Vd = dosis / C0"></outline>
+                        <outline text="10-20 L --&gt; Fluidos
+extracelulares"></outline>
+                        <outline text="25-30 L --&gt; Fluidos
+intracelulares"></outline>
+                        <outline text="40 L --&gt; Todos los
+fluidos corporales"></outline>
+                        <outline text="100-200 --&gt; Tejidos profundos y
+compartimientos periféricos.
+Almacenado en hueso y grasa"></outline>
+                    </outline>
+                    <outline text="Barreras
+naturales de
+órganos">
+                        <outline text="BHE"></outline>
+                        <outline text="Barrera placentaria"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Metabolismo">
+                <outline text="Principalmente hepática"></outline>
+                <outline text="Pretende convertir la sustancia en
+metabólicalitos más hidrofílicos para
+favorecer su excreción"></outline>
+                <outline text="También hay actividad
+metabólica en el sistema GI,
+renal, plasma, pulmón, etc"></outline>
+                <outline text="CYP 450">
+                    <outline text="Enzima
+degradadora
+intrahepática"></outline>
+                    <outline text="Responsable del 75% de la
+degradación los fármacos"></outline>
+                    <outline text="Existen factores que pueden aumentar o
+disminuir su actividad, generando
+interacciónes medicamentosas"></outline>
+                </outline>
+                <outline text="Fases Metabolismo">
+                    <outline text="Fase I">
+                        <outline text="Oxidación,
+reducción,
+hidrólisis"></outline>
+                        <outline text="Resultado es un metabolito intermedio, a
+veces con actividad farmacológica
+modificada o toxicidad aumentada"></outline>
+                        <outline text="Seguida esta fase el fármaco
+puede ser activado, no ser
+modificado o desactivado"></outline>
+                    </outline>
+                    <outline text="Fase II">
+                        <outline text="Conjugacón"></outline>
+                        <outline text="Los productos de conjugación son
+generalmente inactivos"></outline>
+                    </outline>
+                    <outline text="Hay fármacos que pasan directamente
+al metabolismo de Fase II."></outline>
+                    <outline text="El metabolismo busca la mayor solubilidad de la molécula para la
+excreción. Las moléculas polares son de por si hidrofílicas y se eliminan a
+través de la orina"></outline>
+                </outline>
+            </outline>
+            <outline text="Excreción">
+                <outline text="Principalmente urinaria y biliar,
+aunque las otras vías excretoras
+también pueden jugar un rol"></outline>
+                <outline text="T1/2">
+                    <outline text="Es el tiempo necesario que transcurra
+para que la concentración plasmática de
+un fármaco caiga a la mitad."></outline>
+                    <outline text="Luego de 5 vidas medias, la mayoría de los
+fármacos ya se encuentran casi completamente
+eliminados, INDEPENDIENTEMENTE DE LA
+DOSIS ADMINISTRADA."></outline>
+                </outline>
+                <outline text="Clearance (Cl)">
+                    <outline text="Capacidad intrínseca del
+organismo para depurar un
+fármaco de la sangre o plasma"></outline>
+                    <outline text="Parametro indica el volumen de
+sangre o plasma que es &quot;lavado&quot; en
+un determinado tiempo"></outline>
+                    <outline text="Mayor Cl, más rápida
+depuración del fármaco"></outline>
+                    <outline text="Parámetro que relaciona con el V
+de distribución y el T1/2"></outline>
+                </outline>
+            </outline>
+            <outline text="Elección del fármaco">
+                <outline text="Factores del paciente"></outline>
+                <outline text="Ambulatorio o
+hospitalizado"></outline>
+                <outline text="Sitio probable de infección"></outline>
+                <outline text="Características
+fisicoquímicas de los
+ATB"></outline>
+            </outline>
+            <outline text="PK/PD">
+                <outline text="Integra la Farmacocinética (PK: “qué le hace el
+organismo al fármaco”) y la Farmacodinámica (PD:
+“qué le hace el fármaco al organismo”) para optimizar
+dosis y esquemas terapéuticos."></outline>
+                <outline text="Índices utilizados">
+                    <outline text="T &gt; MIC">
+                        <outline text="Tiempo sobre la
+concetración mínima
+inhibitoria"></outline>
+                    </outline>
+                    <outline text="Cmax / MIC"></outline>
+                    <outline text="AUC / MIC"></outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Betalactámicos">
+            <outline text="Penicilinas">
+                <outline text="Acción bactericida"></outline>
+                <outline text="Se une covalentemente a las
+enzimáticos de membrana
+citoplasmática PBP">
+                    <outline text="Penicilin binding proteins">
+                        <outline text="Transpeptidasas"></outline>
+                        <outline text="Carboxipeptidasas"></outline>
+                        <outline text="Endopeptidasas"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Penicilinas">
+                <outline text="PNC Espectro Reducido">
+                    <outline text="Generalmente activas
+ante bacterias G(+)"></outline>
+                    <outline text="Bencilpenicilina
+(Penicilina G)"></outline>
+                    <outline text="Penicilina G Benjamina"></outline>
+                    <outline text="Fenoximetilpenicilina
+(Penicilina V) (VO)"></outline>
+                </outline>
+                <outline text="PNC Antiestafilocócicas">
+                    <outline text="Meticilina (laboratorio)"></outline>
+                    <outline text="Nafcilina"></outline>
+                    <outline text="Isoxazolipenicilinas">
+                        <outline text="Oxacilina"></outline>
+                        <outline text="Cloxacilina"></outline>
+                        <outline text="Flucloxacilina"></outline>
+                        <outline text="Dicloxacilina"></outline>
+                    </outline>
+                    <outline text="Resistentes a las
+penicilinas de S. Aureus"></outline>
+                    <outline text="Actia contra
+estafilococo y
+esrtreptococo"></outline>
+                    <outline text="Inactiva frente a enterococos,
+anaerobios, cocos y bacilos G(-)"></outline>
+                </outline>
+                <outline text="PNC de Amplio Espéctro">
+                    <outline text="Activas frente a G(+) y G(-).
+Son acido estables pero
+inestables a B lactamasas"></outline>
+                    <outline text="Tienen espectro de penicilinas y actividad
+mejorada contra bacilos G(-), especialmente
+Haemophilus influenza"></outline>
+                    <outline text="Indicaciones">
+                        <outline text="1˚ línea OMA y sinusitis"></outline>
+                        <outline text="NAC"></outline>
+                        <outline text="Infecciónnes por listeria"></outline>
+                    </outline>
+                    <outline text="Aminopenicilinas">
+                        <outline text="Ampicilina"></outline>
+                        <outline text="Amoxicilina"></outline>
+                    </outline>
+                    <outline text="Profarmacos de
+Ampicilina">
+                        <outline text="Bacampicilina"></outline>
+                        <outline text="Pivampicilina"></outline>
+                        <outline text="Talampicilina"></outline>
+                    </outline>
+                </outline>
+                <outline text="PNC Antipseudomónicas">
+                    <outline text="PNC de amplio espectro que exigen adecuada
+actividad frente a pseudomona eruginosa y otras
+especies de pseudomonas (pseudomonas spp.
+Y enterobcterias)"></outline>
+                    <outline text="Carboxipenicilinas">
+                        <outline text="Carbenicilina"></outline>
+                        <outline text="Ticarcilina"></outline>
+                        <outline text="Sulbenicilina"></outline>
+                    </outline>
+                    <outline text="Aciulreidopenicilinas">
+                        <outline text="Azlocilina"></outline>
+                        <outline text="Mexlocilina"></outline>
+                        <outline text="Piperacilina"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Penicilina G">
+                <outline text="Datos importantes">
+                    <outline text="Utilizada en tratamiento gonorrea,
+neumonía neumocócica, sifilis,
+amigdalitis y fiebre reumática"></outline>
+                    <outline text="No es estable a ph acido. NO SE
+PUEDE USAR VÍA ORAL"></outline>
+                    <outline text="T1/2 30 minutos"></outline>
+                    <outline text="Unión a proteínas 50%"></outline>
+                </outline>
+                <outline text="Cocaceas G(+)">
+                    <outline text="Streptococcus">
+                        <outline text="Pneumoniae sensible"></outline>
+                        <outline text="BHGA"></outline>
+                        <outline text="BHGB"></outline>
+                    </outline>
+                </outline>
+                <outline text="Bacilos G(-)">
+                    <outline text="Bacillus anthracis"></outline>
+                    <outline text="Croynebacterium
+diphtheria"></outline>
+                </outline>
+                <outline text="Anaerobios">
+                    <outline text="Peptostreptococcus"></outline>
+                    <outline text="Actinomices israeli"></outline>
+                    <outline text="Fusobacterium"></outline>
+                    <outline text="Bacteroides
+melaniogenicus"></outline>
+                    <outline text="Clostridium"></outline>
+                </outline>
+                <outline text="Otras">
+                    <outline text="Treponema pallidum"></outline>
+                    <outline text="Pasteurella multocida"></outline>
+                    <outline text="Erispelothrix"></outline>
+                </outline>
+            </outline>
+            <outline text="Cefalosporinas">
+                <outline text="Entre más aumentamos la
+generación, nás aumenta la
+cobertura frente a bacterias G(-)">
+                    <outline text="La 5˚ generación
+actua contra SAMR"></outline>
+                </outline>
+                <outline text="Cefalosporinas 1˚
+Generación">
+                    <outline text="Muy activo frente a cocos G(+),
+excepto enterococos y SAMR"></outline>
+                    <outline text="Moderada actividad
+contra bacilos G(-)"></outline>
+                    <outline text="Actividad sobre cocos anaerobios,
+pero no bacteroides frágiles"></outline>
+                    <outline text="Cefadroxilo">
+                        <outline text="VO"></outline>
+                    </outline>
+                    <outline text="Cefazolina">
+                        <outline text="EV"></outline>
+                        <outline text="Elección para
+profilaxis cirugúas"></outline>
+                    </outline>
+                </outline>
+                <outline text="Cefalosporinas 2˚
+Generación">
+                    <outline text="Se extiende a G(-), que incluye
+klebsiella y proteus, pero no
+pseudomonas eruginosa"></outline>
+                    <outline text="Se pueden utilizar para el tratamiento de
+RSA y OMA por haemofilus influenza,
+incluso con penicilinas"></outline>
+                    <outline text="Cefuroximo s el de mayor uso oral en
+caso de tratamiento ambulatorio"></outline>
+                </outline>
+                <outline text="Cefalosporinas 3˚
+Generación">
+                    <outline text="Mejora cobertura a G(-)"></outline>
+                    <outline text="Ceftazidima">
+                        <outline text="Cobertura contra
+pseudomona aeuruginosa"></outline>
+                        <outline text="Droga de elección
+para este cuadro"></outline>
+                    </outline>
+                    <outline text="Buena llegada al SNC. Por eso se utiliza en
+meningitis por bacterias G(-)"></outline>
+                    <outline text="Cefotaxima y Cefrtiaxona">
+                        <outline text="EV para el manejo de sepsis
+por G(-) y meningitis"></outline>
+                    </outline>
+                </outline>
+                <outline text="Cefalosporinas 4˚
+Generación">
+                    <outline text="Cefepime"></outline>
+                    <outline text="Actividad contra enterobacter y
+citrobacter, que son resistentes a
+cefalosporinas de 3˚ generación"></outline>
+                    <outline text="Actividad contra P aeuruginosa
+comparable a ceftazidima"></outline>
+                    <outline text="Uso en protocolos de Neutropenia Febril a
+nivel hospitalario."></outline>
+                </outline>
+                <outline text="Cefalosporinas 5˚
+Generación">
+                    <outline text="Ceftobiprol">
+                        <outline text="Efectivo contra SAMR"></outline>
+                    </outline>
+                    <outline text="Ceftarolina">
+                        <outline text="Efectividad contra SAMR, pero
+inefectivo frente a mecanismos de
+resistencia como BLEE o AMPc"></outline>
+                        <outline text="En asociación con amikacina, ha
+mostrado actividad en estos
+mecanismos de resistencia"></outline>
+                    </outline>
+                    <outline text="Inactivas frente a
+Enterococos"></outline>
+                </outline>
+            </outline>
+            <outline text="Carbaenémicos">
+                <outline text="Imipenem">
+                    <outline text="Actividad contra G(+),
+G(-) y anaerobios"></outline>
+                    <outline text="Resistente a algunas
+betalactamasas, pero es inactivado
+por DHP-1 en los túmulos renales."></outline>
+                    <outline text="Buena penetración LCR"></outline>
+                </outline>
+                <outline text="Meropenem">
+                    <outline text="Similar a imipenem"></outline>
+                    <outline text="Carece en actividad contra
+enterococus fecalis"></outline>
+                </outline>
+                <outline text="Ertapenem">
+                    <outline text="No posee actividad contra bacilos G(-) no
+fermentadores, como pseudomona
+aeruginosa y ecinetobacter baumanni."></outline>
+                </outline>
+                <outline text="OJO CONVULSIONES"></outline>
+            </outline>
+            <outline text="Monobactamicos">
+                <outline text="Aztreonam">
+                    <outline text="Resistencia a B
+lactamasas"></outline>
+                    <outline text="Actividad contra G(-), pero no
+sobre G(+) y anaerobios"></outline>
+                    <outline text="Similar espectro a
+aminoglucosidos"></outline>
+                    <outline text="Buena llegada a
+tejidos y SNC"></outline>
+                </outline>
+            </outline>
+            <outline text="Inhibidores de
+Betalactamasas">
+                <outline text="Acido clavulanico">
+                    <outline text="No cubre serranía, enterobacter,
+citrobacter y pseudomona"></outline>
+                    <outline text="Asociado a amoxicilina"></outline>
+                    <outline text="Utilizado en H.
+Influenzae y moraxela."></outline>
+                    <outline text="No en streptococcus"></outline>
+                </outline>
+                <outline text="Sulbactam">
+                    <outline text="Asociado a ampicilina"></outline>
+                    <outline text="Tiene acción contra
+acinetobacter"></outline>
+                </outline>
+                <outline text="Tazobactam">
+                    <outline text="Asociado a piperacilina"></outline>
+                    <outline text="Buen espectro
+cobertura Gram (-)"></outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Antibioticos contra Cocáceas
+Gram (+) Resistentes">
+            <outline text="Glicopeptidos">
+                <outline text="Generalidades">
+                    <outline text="Moleculas que actúan en la
+pared bacteriana inhibiéndome
+la síntesis del peptidoglucano
+(monomero de mureina)"></outline>
+                    <outline text="Actividad principal
+contra G(+)"></outline>
+                    <outline text="S. Aureus,
+enterococcus sp. y C.
+difficile"></outline>
+                    <outline text="Más debil ante
+streptococcus"></outline>
+                </outline>
+                <outline text="Tipos Principales">
+                    <outline text="Vancomicina"></outline>
+                    <outline text="Teicoplanina"></outline>
+                </outline>
+                <outline text="Vancomicina">
+                    <outline text="Vida media en neonatos (6-10), &lt;18 años
+(2.2-4) y adultos (4-6 horas)"></outline>
+                    <outline text="Administración EV (no uso
+IM por gran dolor)"></outline>
+                    <outline text="También se puede dar por vía oral,
+intratecal, intraocular e intraperitoneal"></outline>
+                    <outline text="Excreción renal
+90% sin cambios"></outline>
+                    <outline text="NO REMOVIDA
+POR DIALISIS"></outline>
+                    <outline text="Buena llegada a pleura,
+pericardio, sinovial y ascítico"></outline>
+                    <outline text="Mala llegada a bilis y LCR (sin meninges
+inflamadas), humor acuoso"></outline>
+                    <outline text="Farmacodinamia">
+                        <outline text="Se rige por AUC/CIM">
+                            <outline text="Mejor predictor de óptimos
+resultados en adulto"></outline>
+                            <outline text="&gt;400 se definieron para adultos
+con neumonía por SAMR"></outline>
+                            <outline text="Para lograr estos valores en niños, las
+concentraciones basales son
+aproximadamente 10ug/ml si la CIM es &lt;=1"></outline>
+                        </outline>
+                        <outline text="Hidrofílica">
+                            <outline text="Volumen distribución varía
+desde 0.5L/kg a 1.2 L/kh"></outline>
+                            <outline text="En pacientes
+obesos 0.3-0.8 L/Kg"></outline>
+                        </outline>
+                        <outline text="Diferencias de
+concentración entre
+tejidos">
+                            <outline text="Concentración en pulmón es 5 a 40%
+comparado con plasma"></outline>
+                        </outline>
+                        <outline text="Recomendaciones">
+                            <outline text="Dosis recomendada
+de 40 mg/kg/día"></outline>
+                            <outline text="Niveles séricos de entre
+5-10Mg/L. En infecciones
+del SNC 10-15">
+                                <outline text="15-20 mg/L desde el 2020"></outline>
+                            </outline>
+                            <outline text="AUC/MIC 24 hr &gt; 400 (&lt;800)"></outline>
+                            <outline text="A mayor dosis mayor
+riesgo de IRA"></outline>
+                            <outline text="Uso de infusión continua para mayor
+eficacia y menor toxicidad"></outline>
+                            <outline text="Carga de 25-30
+mg/kg/dosis
+recomendada"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="RAM">
+                        <outline text="Flebitis local (3-14%)"></outline>
+                        <outline text="Hipersensibilidad (rara)"></outline>
+                        <outline text="Sd hombre rojo, reversible al
+suspender infusión">
+                            <outline text="Disminuye incidencia uso antihistamínicos,
+aumento tiempo infusión o disminución la
+concentración."></outline>
+                        </outline>
+                        <outline text="Nefrotoxicidad, reversible"></outline>
+                        <outline text="Supresión medular, acidosis láctica,
+neuropatía periférica y óptica, reversibles"></outline>
+                    </outline>
+                </outline>
+                <outline text="Teicoplanina">
+                    <outline text="Administración IV e
+IM c 24 horas"></outline>
+                    <outline text="Vida media prolongada"></outline>
+                    <outline text="Eliminación renal, no
+removida por diálisis"></outline>
+                    <outline text="Bena llegada a tejidos"></outline>
+                    <outline text="Mala llegada a LCR
+y humor vítreo"></outline>
+                    <outline text="Llega a hueso mejor
+que vancomicina"></outline>
+                    <outline text="RAM">
+                        <outline text="Rash maculopapular (7%)"></outline>
+                        <outline text="Fiebre asociada a
+drogas (6%)"></outline>
+                        <outline text="Trombocitopenia (1-2%)"></outline>
+                        <outline text="Raro: alergia cruzada a vancomicina,
+ototoxicidad, neutropenia, eosinofilia)"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Oxazolidonas">
+                <outline text="Linezolid">
+                    <outline text="Bacteriostatica contra la
+mayoría de las bacterias"></outline>
+                    <outline text="Bactericida contra strepto
+neumonía y S pyogenes"></outline>
+                    <outline text="Inhibición de la
+síntesis proteínaca"></outline>
+                    <outline text="Se une a subunidad 50s, evitándo
+formación de complejo 70S"></outline>
+                    <outline text="Uso clínico">
+                        <outline text="MRSA de piel, tejido blando,
+neumonía, bacteremia"></outline>
+                        <outline text="Neumonía por strepto
+neumiae penicilina resistente"></outline>
+                        <outline text="Uso limitado por endocarditis
+VRE, osteomielitis por MRSA,
+meningitis, tuberculosis"></outline>
+                    </outline>
+                    <outline text="Administrado por VO,
+600mg cada 12 horas"></outline>
+                    <outline text="Buena llegada a pulmón,
+pancreas, hueso"></outline>
+                    <outline text="Excreción 85% renal (40%
+droga sin cambios)"></outline>
+                    <outline text="No requiere ajuste
+por f(x) renal"></outline>
+                    <outline text="Es removida por dialisis"></outline>
+                    <outline text="T1/2 es de 5.5 horas"></outline>
+                    <outline text="RAM">
+                        <outline text="Mielosupresión"></outline>
+                        <outline text="Sindrome serotoninérgico
+(administrado junto a ISRS)"></outline>
+                        <outline text="Neuropatía periferica motora y sensitiva
+en tratamientos prolongados"></outline>
+                    </outline>
+                    <outline text="Resistencia">
+                        <outline text="Mutacinal es la
+más frecuente"></outline>
+                        <outline text="Mutación ribosomal A +
+mutaciones, +R"></outline>
+                        <outline text="ERV fenotipo
+VanA y VanB"></outline>
+                        <outline text="SAMS y SAMR"></outline>
+                    </outline>
+                </outline>
+                <outline text="Tedizolid">
+                    <outline text="Prodroga"></outline>
+                    <outline text="Para bacterias
+resistentes a linezolid"></outline>
+                </outline>
+            </outline>
+            <outline text="Lipopéptidos">
+                <outline text="Daptomicina"></outline>
+                <outline text="Forma canal de K+.
+Mecanismo único"></outline>
+                <outline text="Uso clínico">
+                    <outline text="Infecciónes complicadas de piel y
+tejidos blandos por Gram (+)"></outline>
+                    <outline text="Bacteremia por S Aureus"></outline>
+                    <outline text="EI derecha x
+SAMS o SAMR"></outline>
+                </outline>
+                <outline text="NO Usar">
+                    <outline text="Neumonía (Se une a
+surfractante pulmonar)"></outline>
+                    <outline text="Población
+pediatrica (&lt;18
+años)"></outline>
+                    <outline text="EI izquierda"></outline>
+                </outline>
+                <outline text="Administración">
+                    <outline text="EV 1 vez al día"></outline>
+                    <outline text="Buena llegada a tejidos
+blandos, piel, pulmón"></outline>
+                    <outline text="T1/2 7-11 horas"></outline>
+                    <outline text="Metabolismo renal"></outline>
+                    <outline text="Requiere ajuste con
+clearance &lt; 30 ml/min"></outline>
+                </outline>
+                <outline text="RAM">
+                    <outline text="Dolor, debilidad
+muscular, rabdomioliisis">
+                        <outline text="Medir semanalmente CPK,
+descontinuarlo con signos
+miopatías + CPK &gt; 1000"></outline>
+                        <outline text="Neumonía eosinofilica "></outline>
+                        <outline text="Fiebre por drogas"></outline>
+                        <outline text="Otros leves a moderados: anemia, constipación,
+diarrea, nauseas, vómitos, reacciones locales en
+el sitio de inyección y cefalea"></outline>
+                    </outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Aminoglucosidos,
+Lincosamidas, Macrólidos y
+Sulfas">
+            <outline text="Aminoglucósidos">
+                <outline text="Inhibidores
+síntesis
+Proteica -&gt; Subunidad 30S"></outline>
+                <outline text="Bactericida"></outline>
+                <outline text="Transportados a través de la membrana celular
+mediante un proceso dependiente de O2 (NO
+EFICACES CONTRA ANAEROBIOS)"></outline>
+                <outline text="Efecto post ATB">
+                    <outline text="Retardo de microorganismos en recuperarse
+y re entrar en fase logaritmica"></outline>
+                    <outline text="Es un efecto principalmente in
+vitro, pero también in vivo"></outline>
+                    <outline text="Los ATB que actúan por efecto peak
+tienen mayor efecto post ATB"></outline>
+                    <outline text="Permite dosificación prolongada:
+DOSIS UNICA DIARIA"></outline>
+                </outline>
+                <outline text="Espectro">
+                    <outline text="Bacilos G(-)
+aerobios y
+facultativos"></outline>
+                    <outline text="S. Aureus"></outline>
+                    <outline text="Resistencia a AMG es variable de hospital a
+otro, se relaciona con su uso"></outline>
+                    <outline text="Streptomicina es más util para
+mycobacterium TBC, faciscella
+tularensis y yersinia pestis"></outline>
+                </outline>
+                <outline text="PK">
+                    <outline text="Mala absorción VO"></outline>
+                    <outline text="IM absorción completa"></outline>
+                    <outline text="Peak 30-90 minutos"></outline>
+                    <outline text="EV 20-30 minutos"></outline>
+                    <outline text="Buena
+absorción
+peritoneal"></outline>
+                    <outline text="No se metaboliza en
+el ser humano"></outline>
+                    <outline text="Excreción renal"></outline>
+                    <outline text="La concentración peak se
+relaciona con la eficacia"></outline>
+                    <outline text="Tomar niveles de seguridad previo a
+dosis y 30 minutos post termino
+infusión para la eficacia"></outline>
+                </outline>
+                <outline text="RAM">
+                    <outline text="Paralisis neuromuscular"></outline>
+                    <outline text="Ototoxicidad"></outline>
+                    <outline text="Daño renal"></outline>
+                </outline>
+            </outline>
+            <outline text="Macrolidos">
+                <outline text="Muy utilizados en
+medicina ambulatoria"></outline>
+                <outline text="Bacteriostaticos"></outline>
+                <outline text="Muy seguros"></outline>
+                <outline text="Inhibidor sintesis
+proteica subunidad 50S"></outline>
+                <outline text="Amplia cobertura
+patógenos respiratorios"></outline>
+                <outline text="Eritromicina">
+                    <outline text="Coqueluche"></outline>
+                    <outline text="Campylobacter jejune"></outline>
+                    <outline text="Conjunctivitis y neumonía por
+chlamydia trachomatis"></outline>
+                    <outline text="Erradcación de
+portación difteria"></outline>
+                    <outline text="Enfermedad
+arañazo de gato"></outline>
+                    <outline text="Alergicos a penicilina por infección por trepo grupo ACG
+e infección por S neumonía limitado por R (&gt;R que a
+PNC en cepas no meníngeas)"></outline>
+                    <outline text="250-1gr VO o 500-1gr EV
+(flebitis frecuente)"></outline>
+                </outline>
+                <outline text="Claritromicina">
+                    <outline text="H. Pylori (+
+amoxicillina +
+omeprazol)"></outline>
+                    <outline text="Mycobacterios atipicos"></outline>
+                    <outline text="Alternativa en B pertussis, m.
+Pneumonia, SGA, C, G, street
+neumoníae, m. Catarrhalis y H.
+Influenzae)"></outline>
+                    <outline text="250-500 mg c/12 horas no
+ajuste en IH si riñon normal"></outline>
+                </outline>
+                <outline text="Azitromicina">
+                    <outline text="Neumonía por
+clhamydophila
+pneumoniae"></outline>
+                    <outline text="Legionella"></outline>
+                    <outline text="M. Pneumoniae"></outline>
+                    <outline text="ITS por c. Trachomatis"></outline>
+                    <outline text="UNG en hombres"></outline>
+                    <outline text="Profilaxis MAC"></outline>
+                    <outline text="Arañazo de gato"></outline>
+                    <outline text="Alternativa en infección respiratoria por
+M. Catarrhalis, H. Influenza"></outline>
+                    <outline text="500 mg x día"></outline>
+                </outline>
+                <outline text="Datos comparativos">
+                    <outline text="Azitromicina y claritromicina no son
+afectados por alimentos, eritromicina
+disminúyenos absorción &lt; 50%"></outline>
+                    <outline text="No llegan a LCR. Eritromicina buena
+distribución tisular. Mejor la Claritromicina
+y mejor aun la azitromicina"></outline>
+                    <outline text="Vida media eritromicina(1.4 horas) &lt;
+claritromicina(5h. 8h metabolito activo)
+&lt; azitromicina (41 h)"></outline>
+                    <outline text="Eritromicina y claritromicina
+metabolismo hepático.
+Azitromicina metabolismo
+mínimo"></outline>
+                    <outline text="Exceción de la eritromicina es biliar. No afectada por
+diálisis. La de la claritromicina es biliar-renal,
+removida por diálisis. Azitromicina por deposiciones,
+no requiere ajuste en IH-IR)"></outline>
+                </outline>
+                <outline text="Interacción con Drogas">
+                    <outline text="Los macrolidos (con excepción de la
+azitromicina) son potentes
+inhibidores de la CYP450"></outline>
+                    <outline text="Ojo con ergotamina, carbamazepina,
+cafeina, midazolam, digoxine, etc"></outline>
+                </outline>
+                <outline text="RAM">
+                    <outline text="GI"></outline>
+                    <outline text="Cardiaco (prolongación QT
+especialmente eritromicina, TV)"></outline>
+                    <outline text="Alergias"></outline>
+                    <outline text="Sordera transitoria
+cuando se dan EV"></outline>
+                </outline>
+                <outline text="Mecanismos de
+resistencia">
+                    <outline text="Intrínsica">
+                        <outline text="Impermeabilidad en
+bacilos gram (-)"></outline>
+                    </outline>
+                    <outline text="Adquirida">
+                        <outline text="Alteración sitio blanco
+ribosomal (++frecuente)"></outline>
+                        <outline text="Bomba de expulsión --&gt;
++F en s. pyogenes"></outline>
+                        <outline text="Hay resistencia cruzada
+entre macrólidos"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Lincosamidas">
+                <outline text="Bacteriostatico, pero puede ser
+bactericida según especie,
+inópculo y concentración"></outline>
+                <outline text="Actua en la
+subunidad 50S"></outline>
+                <outline text="Inhibe sintesis proteica"></outline>
+                <outline text="NO CUBRE
+Bacilos gram (-)"></outline>
+                <outline text="Clindamicina">
+                    <outline text="Infecciónnes anaerobias (no en SNC)
+que involucren anaerobios R a PNC (B.
+fragilis): GI, pelvianas"></outline>
+                    <outline text="Infecciónnes pulmonares anaerobia en
+paciente crítico (estudios sugieren
+mejor respuesta que PNC)"></outline>
+                    <outline text="Tratamiento C. perfringens en
+combinación con PNC"></outline>
+                    <outline text="Tratamiento tópico en
+acné vulgaris"></outline>
+                </outline>
+                <outline text="Características
+Clindamicina">
+                    <outline text="Buena absorción, no
+afectada por medicamentos"></outline>
+                    <outline text="Buena distribución tisular. No llega
+a LCR. Contentra en
+PMN/macrófagos y abscesos"></outline>
+                    <outline text="T1/2 de 2.4 horas. Niveles plamáticos
+se mantienen por 6-9 horas"></outline>
+                    <outline text="Metabolismo hepático"></outline>
+                    <outline text="Excreción urinaria como droga
+inactiva. No ajuste IR"></outline>
+                    <outline text="VO, EV, IM y tópico"></outline>
+                    <outline text="150-300 c/6 VO, 600-900
+c/8 EV y 600 c/8 IM"></outline>
+                </outline>
+                <outline text="RAM">
+                    <outline text="Diarrea (10-30%)"></outline>
+                    <outline text="Colitis por C. difficile"></outline>
+                    <outline text="Rash"></outline>
+                    <outline text="Fiebre"></outline>
+                    <outline text="Alteración reversible
+enzimas hepáticas"></outline>
+                    <outline text="Eosinofilia"></outline>
+                </outline>
+            </outline>
+            <outline text="Sulfas">
+                <outline text="Fueron los primeros ATB eficaces.
+Luego se desarrollo resistencia"></outline>
+                <outline text="Inhibe sintesis acido fólico"></outline>
+                <outline text="PK">
+                    <outline text="Muy buena absorción oral"></outline>
+                    <outline text="80% concentración en líquido sinovial,
+pleural y peritoneo. 30% en LCR"></outline>
+                    <outline text="Atravesa barrera
+placentaria"></outline>
+                    <outline text="Metabolización hepática"></outline>
+                    <outline text="Eliminación renal"></outline>
+                </outline>
+                <outline text="Resistencia">
+                    <outline text="Creciente"></outline>
+                    <outline text="Por distintos mecanismos como
+disminución permeabilidad, eflujo,
+alteración enzimática, hiperproducción"></outline>
+                </outline>
+                <outline text="Espectro">
+                    <outline text="Limitado debido
+a resistencia"></outline>
+                    <outline text="Naturalmente resistentes
+frente a enterococcus app"></outline>
+                    <outline text="Otros agentes que pueden ser sensibles
+Actinomyces spp., Nocardia spp., Bacillus
+anthracis y Corynebacterium diphteriae."></outline>
+                    <outline text="Bacterias gramnegativas son sensibles a numerosas especies de
+enterobacterias, Neisseria spp. y patógenos respiratorios como H.
+influenzae, Bordetella pertussis o Legionella pneumophila."></outline>
+                    <outline text="También activas frente a Yersinia pestis, Brucella spp. y
+algunos microorganismos involucrados en ITScomo C.
+trachomatis, H. ducreyi y C. granulomatis. P. y
+Stenotrophomonas maltophilia"></outline>
+                    <outline text="Las micobacterias son resistentes exceptuando algunos
+compuestos de larga duración con moderada actividad frente
+a Mycobacterium leprae."></outline>
+                    <outline text="El cotrimoxazol es activo frente a
+Toxoplasma gondii, Plasmodium spp.
+y Pneumocystis carinii."></outline>
+                </outline>
+                <outline text="RAM">
+                    <outline text="Hipersensibilidad"></outline>
+                    <outline text="Trastornos digestivos"></outline>
+                    <outline text="Hepatics"></outline>
+                    <outline text="Anemia hemolítica"></outline>
+                    <outline text="NO USAR EN
+EMBARAZO NI
+LACTANCIA"></outline>
+                </outline>
+            </outline>
+            <outline text="DATOS IMPORTANTES">
+                <outline text="Aminoglicósidos">
+                    <outline text="Buenos ATB"></outline>
+                    <outline text="RAM recurrentes"></outline>
+                </outline>
+                <outline text="Macrólidos">
+                    <outline text="Uso frecuente ambulatorio"></outline>
+                    <outline text="Interacción fármacos"></outline>
+                </outline>
+                <outline text="Clindamicina">
+                    <outline text="Espectro reducido"></outline>
+                    <outline text="Colitis
+pseudomembranosa"></outline>
+                    <outline text="Mala llegada al SNC"></outline>
+                </outline>
+                <outline text="Sulfas">
+                    <outline text="Solo cotromoxazol"></outline>
+                    <outline text="Alta resistencia"></outline>
+                    <outline text="Usado en infecciónes
+leves y específicas"></outline>
+                </outline>
+            </outline>
+        </outline>
+    </body>
+</opml>

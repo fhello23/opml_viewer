@@ -66,21 +66,18 @@
                     <p class="text-slate-600 text-center mb-6">Choose from our collection of OPML files in the database.</p>
                     
                     {% if available_files %}
-                        <form action="/select_file" method="post" class="w-full">
-                            <div class="space-y-2 mb-4 max-h-40 overflow-y-auto bg-slate-50 border border-slate-200 rounded-md p-2">
-                                {% for file_path in available_files %}
-                                    <div class="file-item p-2 border border-slate-200 rounded-md hover:bg-slate-100">
-                                        <label class="flex items-center space-x-2 cursor-pointer">
-                                            <input type="radio" name="file_path" value="{{ file_path }}" class="form-radio h-4 w-4 text-green-600 focus:ring-green-500">
-                                            <span class="font-medium text-slate-800">{{ file_path.replace('ttos/', '').replace('.opml', '') }}</span>
-                                        </label>
-                                    </div>
-                                {% endfor %}
-                            </div>
-                            <button type="submit" class="bg-green-600 hover:bg-green-700 text-white font-medium py-2 px-4 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2 transition-colors duration-150 w-full">
-                                Select and Continue
-                            </button>
-                        </form>
+                        <div class="w-full space-y-2">
+                            <p class="text-slate-600 text-sm mb-2">Select a file to view:</p>
+                            {% for file_path in available_files %}
+                                <a href="/select_file_direct?file={{ file_path }}" 
+                                   class="w-full flex items-center p-3 mb-2 border border-green-200 rounded-md bg-white hover:bg-green-50 text-green-700 transition duration-150">
+                                    <svg class="w-5 h-5 mr-3 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                                    </svg>
+                                    <span class="font-medium">{{ file_path.replace('ttos/', '').replace('.opml', '') }}</span>
+                                </a>
+                            {% endfor %}
+                        </div>
                     {% else %}
                         <div class="bg-orange-100 text-orange-800 p-4 rounded-lg text-center w-full">
                             <p>No OPML files found in the database.</p>

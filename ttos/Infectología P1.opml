@@ -1945,5 +1945,1339 @@ leves y específicas"></outline>
                 </outline>
             </outline>
         </outline>
+        <outline text="Sepsis">
+            <outline text="Definiciones actuales">
+                <outline text="Sepsis">
+                    <outline text="Disfunción orgánica potencialmente mortal causada
+por una respuesta desproporcionada o desregulada
+del huésped a una infección"></outline>
+                </outline>
+                <outline text="Disfunción Orgánica">
+                    <outline text="Puntaje de 2 o más en
+el SOFA del basal"></outline>
+                </outline>
+                <outline text="Shock Séptico">
+                    <outline text="Requerimiento de vasopresores para mantener una
+PAM &gt; 65mmHg y/o lactato &gt;2mmolL luego de una
+adecuada reanimación hídrica"></outline>
+                </outline>
+            </outline>
+            <outline text="Epidemiología">
+                <outline text="80% de las sepsis se inician fuera
+del ambiente hospitalario"></outline>
+                <outline text="40% de los
+casos son niños"></outline>
+                <outline text="1˚ causa de muerte
+hospitalaria"></outline>
+                <outline text="1˚ causa de readmisión
+hospitalaria"></outline>
+                <outline text="Es la enfermedad
+más costosa"></outline>
+                <outline text="Pacientes hospitalizados con sepsis tienen un a
+tasa de mortalidad de 32.6%, en comparación
+con 13% de los no sépticos."></outline>
+            </outline>
+            <outline text="Diagnóstico">
+                <outline text="La sepsis y el shock séptico
+constituyen emergencias sanitarias"></outline>
+                <outline text="En Chile la prevalencia de la sepsis
+es de 40%, con una mortalidad de
+27% aproximadamente"></outline>
+                <outline text="El diagnóstico y tratamiento
+precoz mejora pronóstico y
+sobreviva --&gt; Golden Hour"></outline>
+                <outline text="Factores de Riesgo">
+                    <outline text="&gt;65 años"></outline>
+                    <outline text="UCI"></outline>
+                    <outline text="Bacteremia"></outline>
+                    <outline text="Inmunosupresión"></outline>
+                    <outline text="Obesidad y DM"></outline>
+                    <outline text="Neumonía"></outline>
+                    <outline text="Cancer"></outline>
+                    <outline text="Hospitalización previa"></outline>
+                    <outline text="Factores genéticos"></outline>
+                </outline>
+            </outline>
+            <outline text="Manifestaciones
+comunes de sepsis">
+                <outline text="Hipotensión"></outline>
+                <outline text="Taquicardia"></outline>
+                <outline text="Fiebre"></outline>
+                <outline text="Leucocitosis"></outline>
+            </outline>
+            <outline text="Manifestaciones
+sospechosas de shock">
+                <outline text="Hipotensión"></outline>
+                <outline text="Taquicardia"></outline>
+                <outline text="Oliguria"></outline>
+                <outline text="Nivel de
+conciencia
+alterado"></outline>
+                <outline text="Taquipnea"></outline>
+                <outline text="Piel fría, cianosis"></outline>
+                <outline text="Acidosis metabólica"></outline>
+                <outline text="Hiperlactatmia"></outline>
+            </outline>
+            <outline text="Diagnóstico de sepsis">
+                <outline text="No existen criterios
+clínicos específicos"></outline>
+                <outline text="Todos los pacientes con infección o
+bacteremia están en riesgo"></outline>
+                <outline text="Screening con
+varios scores"></outline>
+                <outline text="qSOFA (pacientes en sala con
+riesgo de sepsis, no criterio
+diagnóstico)">
+                    <outline text="FR &gt; 22"></outline>
+                    <outline text="PAS &lt; 100"></outline>
+                    <outline text="GCS &lt; 15"></outline>
+                </outline>
+                <outline text="SOFA">
+                    <outline text="PAFI"></outline>
+                    <outline text="Plaquetas"></outline>
+                    <outline text="Bilirrubina"></outline>
+                    <outline text="MAP"></outline>
+                    <outline text="GCS"></outline>
+                    <outline text="Creatina"></outline>
+                    <outline text="Output orina"></outline>
+                </outline>
+                <outline text="Laboratorio (son
+inespecíficos)">
+                    <outline text="Leucocitosis o leucopenia"></outline>
+                    <outline text="&gt;10% inmaduros"></outline>
+                    <outline text="Hiperglucemia"></outline>
+                    <outline text="Hipoxemia"></outline>
+                    <outline text="PcR alta"></outline>
+                    <outline text="Crea elevada"></outline>
+                    <outline text="Trastornos coagulación"></outline>
+                    <outline text="Trombocitopenia"></outline>
+                    <outline text="Hiperbilirrubinemia"></outline>
+                </outline>
+                <outline text="Imágenes">
+                    <outline text="No hay signos radiológicos
+específicosficos por sépsis"></outline>
+                </outline>
+            </outline>
+            <outline text="Laboratorios
+Iniciales">
+                <outline text="Hemograma completo"></outline>
+                <outline text="Bioquímico"></outline>
+                <outline text="Creatinina"></outline>
+                <outline text="Perfíl hepático"></outline>
+                <outline text="Coagulación"></outline>
+                <outline text="Electrolitos"></outline>
+                <outline text="Lactato sérico">
+                    <outline text="Nos puede indicar
+gravedad de la sepsis"></outline>
+                    <outline text="Se utiliza para seguir
+respuesta terapéutica"></outline>
+                </outline>
+                <outline text="Procalcitonina">
+                    <outline text="Poco respaldo en
+la evidencia"></outline>
+                    <outline text="Utilidad en desescalada de terapia ATB bien
+establecida en otras poblaciones"></outline>
+                    <outline text="Orienta la duración del uso de ATB
+en poblaciónnes con sépsis"></outline>
+                    <outline text="Sube más rápido y su peak
+también antes que la par"></outline>
+                </outline>
+            </outline>
+            <outline text="Microbiología">
+                <outline text="Identificación de organismo en un cultivo de un
+paciente séptico es de gran apoyo diagnóstico
+de sepsis, pero no necesaria"></outline>
+                <outline text="Hasta el 50% de los pacientes con
+sepsis no se identifica un
+microorganismo responsable"></outline>
+                <outline text="No se requiere cultivo positivo para
+decisión de ATB em´pirios"></outline>
+                <outline text="Importante que el cultivo sea minima 2 sets
+con un mínimo de 10ml cada uno"></outline>
+            </outline>
+            <outline text="Enfrentamiento Inicial">
+                <outline text="Laboratorio"></outline>
+                <outline text="Lactato"></outline>
+                <outline text="Hemocultivos"></outline>
+                <outline text="Reanimación ABC
+- Terapia ATB">
+                    <outline text="Estabilizar vía resiratoria"></outline>
+                    <outline text="Conseguir acceso IV x 2"></outline>
+                    <outline text="Cristaloides IV 30 ml/kg (primeras 3
+horas). Preferir balanceads">
+                        <outline text="El objetivo es disminución del lactado sérico. Se
+utiliza también el llene capilar como medida
+complementaria de la perfusión"></outline>
+                    </outline>
+                    <outline text="ATB">
+                        <outline text="En caso de sepsis
+definitiva o probable (antes de 1 hora)"></outline>
+                        <outline text="En caso de sepsis posible +
+shock (antes de 1 hora)"></outline>
+                        <outline text="En caso de sepsis posible sin
+shock (antes de 3 horas)"></outline>
+                    </outline>
+                </outline>
+                <outline text="Si el shock refractario a
+reanimación hídrica">
+                    <outline text="Inicio de vasopresores para tener
+una PAM &gt;= 65 mmHg"></outline>
+                    <outline text="Norepinefrina como
+primera elección"></outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Fiebre de Orígen
+Desconocido">
+            <outline text="Definiciones">
+                <outline text="No existe
+umbral
+universal">
+                    <outline text="&gt; 37.8˚C"></outline>
+                    <outline text="&gt;38˚C"></outline>
+                </outline>
+                <outline text="Temperatura más baja">
+                    <outline text="Adultos mayores"></outline>
+                    <outline text="IMC bajo"></outline>
+                    <outline text="Hipotiroidismo"></outline>
+                </outline>
+                <outline text="Temperatura más alta">
+                    <outline text="Mujeres"></outline>
+                    <outline text="Pacientes con cáncer"></outline>
+                </outline>
+                <outline text="Definición práctica FOD">
+                    <outline text="Fiebre que persiste durante más tiempo que las
+afecciones típicas autolimitadas (p. ej.,
+enfermedades víricas comunes) en ausencia de una
+causa identificable a pesar de una evaluación
+razonable por parte de un clínico experimentado."></outline>
+                </outline>
+                <outline text="Definición Clásica">
+                    <outline text="&gt;38˚C, &gt;3 semanas, &gt;2 visitas o 3 días en
+el hospital o 1 semana de investigación
+ambulatoria invasiva"></outline>
+                </outline>
+                <outline text="Es importante que el pronóstico de los
+pacientes depende del momento de inicio del
+tratamiento (en algunos grupos)"></outline>
+            </outline>
+            <outline text="Catregorias
+etiológicas">
+                <outline text="Infecciónsa"></outline>
+                <outline text="Neoplasia"></outline>
+                <outline text="Inflamatoria"></outline>
+                <outline text="Misceláneas"></outline>
+                <outline text="No diagnosticada">
+                    <outline text="7-50%"></outline>
+                </outline>
+                <outline text="En países desarrollados predominan las
+causas reumáticas y neoplásicas"></outline>
+            </outline>
+            <outline text="Enfrentamiento">
+                <outline text="1) Buena historia física y
+exámen físico completo"></outline>
+                <outline text="2) Laboratorio e imáenes">
+                    <outline text="Hemograma VHS"></outline>
+                    <outline text="Perfil
+bioquímico y
+hepático"></outline>
+                    <outline text="Hemocultivos x 2"></outline>
+                    <outline text="Uroanalisis con
+urocultivo reflejo"></outline>
+                    <outline text="VIH"></outline>
+                    <outline text="ANA"></outline>
+                    <outline text="FR"></outline>
+                    <outline text="PCR"></outline>
+                    <outline text="Ferritina"></outline>
+                    <outline text="Imagenes va
+dependiendo"></outline>
+                </outline>
+                <outline text="3) No diagnóstico">
+                    <outline text="TAC TAP"></outline>
+                    <outline text="TB"></outline>
+                    <outline text="Tiroides"></outline>
+                    <outline text="Micopacterias"></outline>
+                    <outline text="Ecocardio"></outline>
+                    <outline text="Biopsias"></outline>
+                    <outline text="Etc"></outline>
+                </outline>
+            </outline>
+            <outline text="Manejo FOD">
+                <outline text="Diario de fiebre"></outline>
+                <outline text="Suspender
+medicación no
+esencial"></outline>
+                <outline text="Uso antipirético"></outline>
+                <outline text="Test del naproxeno
+(550mg c/8 horas)">
+                    <outline text="Si la fiebre baja,
+Orígen FOD tumoral"></outline>
+                </outline>
+                <outline text="TTO empirico">
+                    <outline text="Corticoides no demuestra utilidad
+excepto en arteritis temporal"></outline>
+                    <outline text="ATB en infecciónnes
+demostradas o infección
+severa"></outline>
+                </outline>
+                <outline text="Considerar
+causas comunes">
+                    <outline text="Mononucleosis"></outline>
+                    <outline text="TB"></outline>
+                    <outline text="Endocarditis"></outline>
+                    <outline text="Vasculitis"></outline>
+                    <outline text="Fiebre del viajero"></outline>
+                </outline>
+            </outline>
+            <outline text="Estudios Especiales">
+                <outline text="PET-CT">
+                    <outline text="Cuando no hay hipótesis diagnóstica post
+examenes de laboratorio, imágenes,
+historia y exámenes físico"></outline>
+                    <outline text="Puede orientar sitio de
+estudio (biopsia)"></outline>
+                    <outline text="Guía para
+controles
+sucesivos"></outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Poliadenopatías">
+            <outline text="Generalidades">
+                <outline text="Ganlgios linfáticos normales son &lt;
+1cm (&lt;1.5cm los inguinales)"></outline>
+                <outline text="Pronóstico variable">
+                    <outline text="&gt;50 años: 40%
+son benignos"></outline>
+                    <outline text="&lt; 30 años: 80% son benignas y autolimitadas
+(&lt;1% malignas)"></outline>
+                </outline>
+                <outline text="Clasificación">
+                    <outline text="Localizadas"></outline>
+                    <outline text="Generalizadas (&gt;2 grupos no
+contiguos) --&gt; Causa sistémica"></outline>
+                </outline>
+                <outline text="La mayoría de las consultas son por causas
+inespecíficas, en donde la historia y el examen
+físico son suficientes y no requieren de mayor
+estudio diagnóstico"></outline>
+            </outline>
+            <outline text="Etiología Infecciosa">
+                <outline text="Virales">
+                    <outline text="VIH"></outline>
+                    <outline text="Mononucleosis
+Infecciosa (VHB)"></outline>
+                    <outline text="Mononucleosis Like (CMV,
+VH6, VHS, Adenovirus)"></outline>
+                    <outline text="VHB"></outline>
+                    <outline text="Parvovirus B19"></outline>
+                    <outline text="Dengue"></outline>
+                </outline>
+                <outline text="Bacterianas">
+                    <outline text="Bartonella"></outline>
+                    <outline text="Mycobacterias"></outline>
+                    <outline text="Fiebre tifoidea"></outline>
+                    <outline text="Linfogranuloma venereo"></outline>
+                </outline>
+                <outline text="Hongos">
+                    <outline text="Hispoplasmosis"></outline>
+                    <outline text="Coccidiomicosis"></outline>
+                    <outline text="Cyptococosis"></outline>
+                </outline>
+                <outline text="Protozoos">
+                    <outline text="Leishmaniasis"></outline>
+                    <outline text="Toxoplasmosis"></outline>
+                </outline>
+                <outline text="Espiroquetas">
+                    <outline text="Sifilis Secundáriaria"></outline>
+                    <outline text="Enfermedad de lyme"></outline>
+                </outline>
+            </outline>
+            <outline text="Etiológicogía Inflamatoria">
+                <outline text="LES"></outline>
+                <outline text="Sjoren"></outline>
+                <outline text="Still"></outline>
+                <outline text="Otros: AR, dermatomiositis,
+vasculitis vaso pequeño"></outline>
+            </outline>
+            <outline text="Neoplásicas (&lt;1%)">
+                <outline text="Linfoma NH"></outline>
+                <outline text="Leucemias"></outline>
+                <outline text="Sarcoidosis"></outline>
+            </outline>
+            <outline text="Fármaco">
+                <outline text="Anticonvulsionantes"></outline>
+                <outline text="Alopurinol"></outline>
+                <outline text="ATB"></outline>
+            </outline>
+            <outline text="Otros">
+                <outline text="Castellana (hiperplasia angiofolicular):
+Adenopatías masivas + megalíticosas +
+hipergamaglobuninemia policlonal"></outline>
+                <outline text="Kawasaki: Fiebre + adenopatía
+cervical + conjuntivitis + rash +
+aneurismas coronarios"></outline>
+                <outline text="Amiloidosis"></outline>
+                <outline text="IgG4"></outline>
+            </outline>
+            <outline text="Características">
+                <outline text="Infección">
+                    <outline text="Dolorosas"></outline>
+                    <outline text="Consistencia gomosa"></outline>
+                    <outline text="Inflamación local"></outline>
+                    <outline text="Histología con necreosis"></outline>
+                </outline>
+                <outline text="MT órganos sólidos">
+                    <outline text="Indoloras"></outline>
+                    <outline text="Petreas"></outline>
+                    <outline text="Adheridos a
+planos profundos"></outline>
+                    <outline text="Histologia con necrosis"></outline>
+                </outline>
+                <outline text="Linfoma">
+                    <outline text="Indoloras"></outline>
+                    <outline text="Gomosas"></outline>
+                    <outline text="Desplazables"></outline>
+                    <outline text="SUELE NO
+TENER
+NECROSIS"></outline>
+                </outline>
+            </outline>
+            <outline text="Manejo">
+                <outline text="Si la anamnesis y el exámen físico
+concluye que la causa es benigna,
+control clínico (50% de los casos)"></outline>
+                <outline text="Si se sospecha de enfermedad
+sistémica o ganglios patológicos,
+exámenes de laboratorio e imágenes"></outline>
+            </outline>
+            <outline text="Estudio Dirigido">
+                <outline text="Adenopatía Localizada">
+                    <outline text="Hemograma + dirigido a edad,
+historia y exposición"></outline>
+                    <outline text="Podria observarse
+por 3-4 semana"></outline>
+                    <outline text="Si no resuelve --&gt; Biopsia"></outline>
+                </outline>
+                <outline text="Adenopatía Generalizada">
+                    <outline text="Primera línea: Hemograma, PCR, LDH (buena VPN
+para cáncer), VIH, VDRL, cultivos faringe y/o acs
+antiheterófilos (según clínica)"></outline>
+                    <outline text="Segunda línea: TBC, ANA
+(5% población positiva)"></outline>
+                    <outline text="Tercera línea: Biopsia"></outline>
+                </outline>
+                <outline text="Imagenes">
+                    <outline text="Cuando EF no es compatible
+con linfadenopatías"></outline>
+                    <outline text="Evaluar tejido circundante"></outline>
+                    <outline text="Características
+sugerentes de
+malignidad"></outline>
+                    <outline text="&lt;= 14 años hacer ECO"></outline>
+                    <outline text="&gt;14 años TAC TAP"></outline>
+                </outline>
+                <outline text="Biopsia">
+                    <outline text="Biopsia excisiones + IHQ"></outline>
+                    <outline text="Nunca aguja fina"></outline>
+                    <outline text="• Ganglio &gt; 1 cm + persistente &gt;4 sem +
+sin rpta ATB ni antinflamatorios"></outline>
+                    <outline text="• &gt; 40 años + crecimiento progresivo
++ indoloro + síntomas B"></outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Sindrome
+Mononucleosico">
+            <outline text="Generalidades">
+                <outline text="Incidencia 15-24 años"></outline>
+                <outline text="VEB (VHH4)"></outline>
+                <outline text="90-95% población &gt;60 años
+tiene serológicogía positiva"></outline>
+                <outline text="VEB tipo 1 es el
+más frecuente"></outline>
+                <outline text="Incubación 4-7 semanas"></outline>
+                <outline text="Permanence latente
+en los linfocitos B"></outline>
+            </outline>
+            <outline text="Clínica">
+                <outline text="Fiebre variable
+2-3 semanas"></outline>
+                <outline text="Odinofagía (+/-
+exudado en 30%)"></outline>
+                <outline text="Adenopatías cervicales"></outline>
+                <outline text="Esplenomegalia"></outline>
+                <outline text="Edema palpebral bilateral"></outline>
+                <outline text="Prodromo">
+                    <outline text="Decaimiento"></outline>
+                    <outline text="Anorexia"></outline>
+                    <outline text="Fatigabilidad"></outline>
+                    <outline text="Cefalea"></outline>
+                </outline>
+                <outline text="Poco frecuente">
+                    <outline text="Asintomático (10%)"></outline>
+                    <outline text="Dolor abdominal"></outline>
+                    <outline text="Exantema"></outline>
+                    <outline text="Hepatomegalia"></outline>
+                    <outline text="Ictericia"></outline>
+                </outline>
+            </outline>
+            <outline text="Laboratorio Dirigido">
+                <outline text="Hemograma - Frotis">
+                    <outline text="Linfocitosis &gt; 50%"></outline>
+                    <outline text="Recuento linfocitos
+atípicos &gt; 10%">
+                        <outline text="Presente también en otras infecciones y
+neoplasias hematológicas"></outline>
+                    </outline>
+                </outline>
+                <outline text="Perfil Hepático"></outline>
+                <outline text="Acs Heterofilos (S87% -
+E91%) - &quot;Monospot&quot;">
+                    <outline text="Positividad aumenta post 1ra semana
+--&gt; Negatividad 3-12 meses"></outline>
+                    <outline text="FP: linfoma, leucemia,
+rubeola, hepatiits viral, LES"></outline>
+                    <outline text="FN: niños &lt; 10 (poca
+respuesta humoral)"></outline>
+                </outline>
+                <outline text="IgM anti VEB-VCA (viral capside antigen) --&gt;
+Contra capside de virus en LB">
+                    <outline text="Recomendado con
+clínica + monospot -"></outline>
+                    <outline text="FP: Tiene reacción cruzada de
+por vida tras infección"></outline>
+                </outline>
+                <outline text="IgG anti VEB nuclear
+antigen (EBNA)">
+                    <outline text="Agudo si IgM VCA (+)
+y Anti EBNA (-)"></outline>
+                    <outline text="Antiguo si IgM VCA (-) e
+IgG anti EBNA (+)"></outline>
+                </outline>
+                <outline text="PCR cuantitativa VEB (&quot;Carga viral&quot;)">
+                    <outline text="Para IS y post transplante"></outline>
+                </outline>
+                <outline text="SIEMPRE
+DESCARTAR
+VIH"></outline>
+                <outline text="*** Buescar otras causas cuando
+monospot + IgM son negativos"></outline>
+            </outline>
+            <outline text="Tratamiento">
+                <outline text="Generalmente no se trata"></outline>
+                <outline text="Aciclovir">
+                    <outline text="Alta dosis (3-4 gr
+diarios x 5-7 días)"></outline>
+                    <outline text="Reducción de la excreción viral
+respiratoria, pero efecto es
+temporal y sin mejoría clínica"></outline>
+                </outline>
+                <outline text="Corticoides">
+                    <outline text="No de rutina"></outline>
+                    <outline text="Solo si angioedema facial
+o compromiso VA"></outline>
+                </outline>
+                <outline text="Otros">
+                    <outline text="CMV --&gt; Ganciclovir EV si infección severa
+con miocardios, colitis, retinitis"></outline>
+                    <outline text="Toxoplasma --&gt; Sulfadizina +
+primeramina (o CTX forte)"></outline>
+                    <outline text="VIH --&gt; TARV"></outline>
+                </outline>
+            </outline>
+            <outline text="Complicaciones">
+                <outline text="&gt;=1%">
+                    <outline text="Obstrucción VA"></outline>
+                    <outline text="Meningoencefalitis"></outline>
+                    <outline text="Anemia Hemolytic"></outline>
+                    <outline text="Faringitis Estreptocócica"></outline>
+                    <outline text="Trombocitopenia"></outline>
+                </outline>
+                <outline text="&lt;1%">
+                    <outline text="Conjunctivitis"></outline>
+                    <outline text="Sindrome Hemofagocitico"></outline>
+                    <outline text="Myocarditis"></outline>
+                    <outline text="Síndromes neurológicos"></outline>
+                    <outline text="Neutropenia"></outline>
+                    <outline text="Pancreatitis"></outline>
+                    <outline text="Parotiditis"></outline>
+                    <outline text="Pericarditis"></outline>
+                    <outline text="Pneumonitis"></outline>
+                    <outline text="Desordenes psicológicos"></outline>
+                    <outline text="Ruptura esplénica"></outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Meningitis Bacteriana">
+            <outline text="Generalidades">
+                <outline text="Como se diagnósticaa">
+                    <outline text="1) Historia Clínica: La mayoría llegan
+con compromiso cualitativo y/o
+cuantitativo de conciencia"></outline>
+                    <outline text="2) Exploración física">
+                        <outline text="Exámen clínico completo"></outline>
+                        <outline text="Signos meníngeos"></outline>
+                        <outline text="Signos cutáneos, mucosas, uñas (por
+manifestación inmunológica)"></outline>
+                    </outline>
+                    <outline text="3) Punción Lumbar">
+                        <outline text="Hacer TAC sc antes para
+descartar hemorragias o HTE"></outline>
+                        <outline text="Se podria reemplazar
+con fondo de ojo"></outline>
+                    </outline>
+                    <outline text="4) Análisis bioquímico,
+microbiológico y molecular LCR"></outline>
+                    <outline text="5) Otras herramientas"></outline>
+                </outline>
+                <outline text="Etiología">
+                    <outline text="80% MBA neumococco y meningococo.
+Portación epitelio nasofaríngeo (junto con
+HiB)"></outline>
+                </outline>
+            </outline>
+            <outline text="Análisis LCR">
+                <outline text="Bacteriano">
+                    <outline text="Neutrofilos PMN segmentados
+predominan (pleocitosis --&gt; &gt;5
+leucocitos en LCR)"></outline>
+                    <outline text="Muy baja glucosa (5-20)"></outline>
+                    <outline text="Proteinas elevadas"></outline>
+                    <outline text="Bacterias visibles al Gram"></outline>
+                </outline>
+                <outline text="Viral">
+                    <outline text="Mononucleares
+predominan "></outline>
+                    <outline text="Baja glucosa (20-40)"></outline>
+                    <outline text="Proteinas elevadas"></outline>
+                    <outline text="Raro el cultivo teñido (acid fast)"></outline>
+                </outline>
+                <outline text="Fungico">
+                    <outline text="Mononucleares
+predominan"></outline>
+                    <outline text="Baja glucosa (20-40)"></outline>
+                    <outline text="Proteinas elevadas"></outline>
+                    <outline text="Cultivo teñido (india ink)"></outline>
+                </outline>
+                <outline text="Viral Aseptico">
+                    <outline text="Linfociticos o Mononucleares
+predominan"></outline>
+                    <outline text="Normal glucosa (65-70)"></outline>
+                    <outline text="Proteinas levemente elevada en inicio de enfermedad"></outline>
+                    <outline text="Cultivo negativo"></outline>
+                </outline>
+            </outline>
+            <outline text="Microorganismos">
+                <outline text="Neonatos">
+                    <outline text="E. Coli"></outline>
+                    <outline text="Strepto
+agalactiae
+(grupo B)">
+                        <outline text="Por eso se da penicilina IM si
+hisopado en embarazadas"></outline>
+                    </outline>
+                    <outline text="Otras enterobacterias"></outline>
+                    <outline text="Listeria monocytogenes"></outline>
+                </outline>
+                <outline text="Otros grupos de edad">
+                    <outline text="H. Influenzae
+(capsular tipo B)"></outline>
+                    <outline text="Neiseria meningitidis"></outline>
+                    <outline text="Streptococcus neumonía"></outline>
+                    <outline text="Mycobacterium
+tuberculosos"></outline>
+                    <outline text="Lisyteria monocytogenes"></outline>
+                    <outline text="Cryptococcus neoformans">
+                        <outline text="VIH (+)"></outline>
+                        <outline text="Severamente IS"></outline>
+                    </outline>
+                    <outline text="Staphylococci"></outline>
+                </outline>
+            </outline>
+            <outline text="Patógenos Comunes">
+                <outline text="Agresivos">
+                    <outline text="Meningococo"></outline>
+                    <outline text="Neumococo"></outline>
+                    <outline text="HiB"></outline>
+                    <outline text="Bacilos G(-)"></outline>
+                    <outline text="Streptococcus agalactiae"></outline>
+                    <outline text="Cryptococcus neoformans"></outline>
+                </outline>
+                <outline text="Larvado">
+                    <outline text="Listeria monocytogenes"></outline>
+                    <outline text="Mycobacterium
+tuberculosis"></outline>
+                </outline>
+            </outline>
+            <outline text="Virus">
+                <outline text="Causa meningiti
+más común"></outline>
+                <outline text="Enterovirus
+(ECHO,
+Coxsackie)"></outline>
+                <outline text="VHS"></outline>
+                <outline text="VVZ"></outline>
+                <outline text="Virus parotiditis"></outline>
+            </outline>
+            <outline text="Como llegan al SNC">
+                <outline text="Foco localización cercano">
+                    <outline text="Naso faringe"></outline>
+                    <outline text="Orofaringe"></outline>
+                    <outline text="Oído"></outline>
+                    <outline text="Pasan por continuidad"></outline>
+                </outline>
+                <outline text="Hematógena">
+                    <outline text="Por eso siempre
+pedir hemocultivo"></outline>
+                </outline>
+                <outline text="Sistemas de derivación"></outline>
+            </outline>
+            <outline text="Neisseria Meningitidis">
+                <outline text="Diplococo
+GRAM (-)"></outline>
+                <outline text="Muy pequeña"></outline>
+                <outline text="13 serogrupos
+(por cápsula)">
+                    <outline text="Los más relevantes son
+los A, B, C, W, Y, X"></outline>
+                </outline>
+                <outline text="Humanos somos el
+único repertorio">
+                    <outline text="Epitelio nasofaringeo"></outline>
+                    <outline text="Habitualmente comensal"></outline>
+                    <outline text="Minoria de las cepas causan
+enfermedad invasora. Letalidad 7-10%"></outline>
+                </outline>
+                <outline text="Chile serotipo B
+hasta 2011"></outline>
+                <outline text="Emergencia W
+desde 2011"></outline>
+                <outline text="Presentaciones
+Clínicas Frecuentes">
+                    <outline text="Meningitis aguda y
+enfermedad meningococica inqasiva"></outline>
+                </outline>
+                <outline text="Presentaciones
+Clínicas Frecuentes">
+                    <outline text="AS, neumonía, uretritis,
+pericarditis purulenta, conjuntivitis, epiglotis,
+sinusitis, uretritis, otitis, proctitis"></outline>
+                </outline>
+                <outline text="Factores
+virulencia
+bacteria">
+                    <outline text="Proteínas membrana externa que facilita
+interacción con epitelio y endotelio"></outline>
+                    <outline text="Capsula que inhibe fagocitosis
+y actividad bactericida"></outline>
+                    <outline text="Lipooligosacaridos --&gt;
+Algunos endotoxinas"></outline>
+                </outline>
+                <outline text="Epidemiología">
+                    <outline text="En cinturon de
+fuego --&gt; Africa"></outline>
+                    <outline text="1.2M casos al año"></outline>
+                    <outline text="135.000 muertes al año"></outline>
+                    <outline text="Ocurrencia esporádico en
+países industrializados"></outline>
+                    <outline text="Agente
+causante de
+brotes"></outline>
+                    <outline text="La incidencia va a la baja pero
+la letalidad va al alza"></outline>
+                </outline>
+                <outline text="DECLARACION
+OBLIGATORIA POR
+SOSPECHA"></outline>
+                <outline text="Medidas de Control">
+                    <outline text="Riesgo de 2˚ caso en
+contactos intrafamiliar">
+                        <outline text="4 casos/1000 expuestos (500-800 veces &gt;
+riesgo de población general)"></outline>
+                    </outline>
+                    <outline text="Quimioprofilaxis">
+                        <outline text="Ciprofloxacino 500 mg x 1
+dosis (&gt;18 años)"></outline>
+                        <outline text="Ceftriaxona 250 mg IM x 1
+dosis (embarazadas)"></outline>
+                        <outline text="Rifampicina (Muy restringida para TB. Se usa por 2 días)"></outline>
+                        <outline text="Azitromicina (1gr en población pediatrica)"></outline>
+                    </outline>
+                </outline>
+                <outline text="Vacuna">
+                    <outline text="Cuadrivalente: A, C, Y, W">
+                        <outline text="Es del PNI desde el 2014"></outline>
+                        <outline text="Inactivadas. No contienen meningococo
+que pueda causar infección"></outline>
+                        <outline text="Tiene una parte de la bacteria
+conjugada a otra proteína"></outline>
+                        <outline text="Se utiliza cuando los niños
+cumplen 1 año de edad. conjugada"></outline>
+                    </outline>
+                    <outline text="Monovalente: A y C. Licenciada para serogrupo B"></outline>
+                    <outline text="En adultos &gt; 65  polisacarida"></outline>
+                </outline>
+            </outline>
+            <outline text="FR">
+                <outline text="&gt;65 años"></outline>
+                <outline text="Alcoholismo"></outline>
+                <outline text="DM"></outline>
+                <outline text="Déficit complemento,
+especialmente C3"></outline>
+            </outline>
+            <outline text="Tratamiento">
+                <outline text="Ceftriaxona 2gr
+cada 12 horas">
+                    <outline text="Sin ajuste por f(x) renal"></outline>
+                </outline>
+                <outline text="Si no sabemos que es, la
+Vancomicina cubre todo">
+                    <outline text="Ceftriaxona (2gr c/12)+ Vancomicina (2gr carga en 2
+horas + 1 hr c/12. Hay que determinar niveles en sangre
+desde 3˚ dosis (15-20 microgramos x mililitros) es buen tto empírico"></outline>
+                    <outline text="También se suma si el gram tiene
+gram positivo diplodoco"></outline>
+                </outline>
+                <outline text="Corticoides">
+                    <outline text="En adultos no"></outline>
+                    <outline text="Dexametasona
+en &lt; 18 años"></outline>
+                </outline>
+            </outline>
+            <outline text="Diagnóstico">
+                <outline text="1) Tinción de Gram"></outline>
+                <outline text="2) Pruebas antigénicas"></outline>
+                <outline text="3) Técnicas biología
+molecular"></outline>
+                <outline text="4) Cultivo"></outline>
+                <outline text="GS --&gt; Film
+array meningitis">
+                    <outline text="Igual hay que
+tomar hemocultivos"></outline>
+                </outline>
+                <outline text="Punción (4 frascos)">
+                    <outline text="1) Citoquímico"></outline>
+                    <outline text="2) Gram"></outline>
+                    <outline text="3) Film Array"></outline>
+                    <outline text="4) Guardar"></outline>
+                </outline>
+            </outline>
+        </outline>
+        <outline text="Encefalitis">
+            <outline text="Generalidades">
+                <outline text="Cuadro que afecta al parenquima cerebral
+asociado a disfunción neurológica"></outline>
+                <outline text="Más frecuente en lactantes &lt; 1
+año y ancianos &gt; 65 años"></outline>
+                <outline text="60% sin causal
+Identificado"></outline>
+            </outline>
+            <outline text="Diferencias encefalitis
+con encefalopatía">
+                <outline text="Encefalitis">
+                    <outline text="Fiebre"></outline>
+                    <outline text="Cefalea"></outline>
+                    <outline text="Focalidad"></outline>
+                    <outline text="Crisis comisiales"></outline>
+                    <outline text="Crisis
+generalizadas o
+focales"></outline>
+                    <outline text="Hemograma con leucositosis frecuente, LCR
+pleocitosis, EEG enaltecimiento difuso y alt focales. La
+RNM puede tener alteraciónes focales"></outline>
+                </outline>
+                <outline text="Encefalopatía">
+                    <outline text="Decenso progresivo
+de estado mental"></outline>
+                    <outline text="Focalidad es infrecuente"></outline>
+                    <outline text="Crisis camisoles infrecuentes, pero si
+las hay, son generalizadas"></outline>
+                    <outline text="El hemograma suele no tener
+leucocitosis, la pleocitosis es infrecuente,
+EEG con enlentecimiento difuso"></outline>
+                </outline>
+            </outline>
+            <outline text="Tratamiento">
+                <outline text="El uso empírico precoz de aciclovir EV
+está justificado ante sospecha en
+espera de otros estudios">
+                    <outline text="Hay que ajustar por
+función renal"></outline>
+                    <outline text="Importancia del film array. Si hay
+Herpes, solo aciclovir sin dar ATB"></outline>
+                </outline>
+                <outline text="Actualmente no hay tratamiento de
+beneficio para pacientes con
+encefalitis por arbovirus"></outline>
+                <outline text="Recordar la encefalitis
+asociada a gripe"></outline>
+            </outline>
+            <outline text="Causas Relevantes">
+                <outline text="Adenovirus"></outline>
+                <outline text="Encefalitis japonesas">
+                    <outline text="Existe vacuna.
+Importante para viajeros"></outline>
+                </outline>
+                <outline text="Gripe"></outline>
+                <outline text="VIH --&gt; A veces es
+el primer signo"></outline>
+                <outline text="Virus Chickungunya"></outline>
+                <outline text="Encefalitis transmitida
+por garrapatas"></outline>
+                <outline text="Parotiditis "></outline>
+                <outline text="RubeolaVirus de la
+Fiebre del Valle del Rift"></outline>
+            </outline>
+        </outline>
+        <outline text="Abscesos Cerebrales
+Bacterianos">
+            <outline text="Generalidades">
+                <outline text="Área focal de necrosis con
+membrana alrededor dentro del
+parénquima cerebral"></outline>
+                <outline text="Puede ser
+infeccioso o
+traumatico"></outline>
+                <outline text="Elevada morbimortalidad"></outline>
+                <outline text="Etiológicogía">
+                    <outline text="Hasta 8% de masas
+intracraneales"></outline>
+                    <outline text="&gt;adultos H:M
+2-3:1 (&gt;30 años)"></outline>
+                    <outline text="&gt;VIH"></outline>
+                    <outline text="Aumento
+progresivo hongos
+(IS)"></outline>
+                </outline>
+            </outline>
+            <outline text="Etiología">
+                <outline text="En general
+polimicrobianos">
+                    <outline text="CGP">
+                        <outline text="Streptococcus anginosus"></outline>
+                        <outline text="Viridians (30%)"></outline>
+                        <outline text="S. Aureus (15%)"></outline>
+                    </outline>
+                    <outline text="BGN">
+                        <outline text="Enterobacterias
+(15%), PSAE"></outline>
+                    </outline>
+                    <outline text="Anaerobios (30%)">
+                        <outline text="Bacteroides fragilis"></outline>
+                        <outline text="Cutibacterium"></outline>
+                        <outline text="Prevotella melaninogénica"></outline>
+                        <outline text="Fusobacterium"></outline>
+                        <outline text="Actinomyces"></outline>
+                    </outline>
+                    <outline text="IS">
+                        <outline text="Toxoplasmosis (VIH)"></outline>
+                        <outline text="Listeria"></outline>
+                        <outline text="Nocardia"></outline>
+                        <outline text="Hongos"></outline>
+                        <outline text="TBC"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Patogenia">
+                <outline text="Contiguidad (45%) -
+Más Frecuente">
+                    <outline text="Sinusitis (1/3)"></outline>
+                    <outline text="Otitis (5%)"></outline>
+                    <outline text="Mastoiditis"></outline>
+                    <outline text="Dental"></outline>
+                </outline>
+                <outline text="Inoculación directa">
+                    <outline text="Trauma directo  o
+neurocirugía reciente"></outline>
+                    <outline text="Múltiples"></outline>
+                    <outline text="Polimicrobianos (Aureus, klebsiella,
+e coli, PSAE, anaerobios)"></outline>
+                </outline>
+                <outline text="Hematogena">
+                    <outline text="+f en IS"></outline>
+                    <outline text="Absceso o empiema
+pulmonar (+F)"></outline>
+                    <outline text="Endocarditis"></outline>
+                    <outline text="Infección abdominal"></outline>
+                    <outline text="Multiples (territorio ACM)
+--&gt; Sustancia gris"></outline>
+                    <outline text="Monomicrobianos:
+aureus o viridian"></outline>
+                </outline>
+                <outline text="Criptogénicos">
+                    <outline text="Multiples: territorio ACM"></outline>
+                    <outline text="Monomicrobianos:
+Listeria, actinomyces"></outline>
+                </outline>
+            </outline>
+            <outline text="Fases Evolución">
+                <outline text="Cerebritis (1-9 días)"></outline>
+                <outline text="Encapsulación
+(necrosis licuefactiva)">
+                    <outline text="Capsula inicial
+(10-14 días)">
+                        <outline text="Tejido granulatorio"></outline>
+                    </outline>
+                    <outline text="Cápsula tardía (&gt;14 días)">
+                        <outline text="Tejido colágenoso + glial"></outline>
+                    </outline>
+                    <outline text="Abscesos hijos /rotura
+espacio ventricular">
+                        <outline text="Edema vasogenico">
+                            <outline text="Enclavamiento"></outline>
+                            <outline text="Muerte"></outline>
+                        </outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Clínica">
+                <outline text="1-4 semanas"></outline>
+                <outline text="Manifestación según
+localización y tamaño"></outline>
+                <outline text="Clínica Inespecífica">
+                    <outline text="Cefalea (70%)"></outline>
+                    <outline text="Cambio estado
+mental (65%)"></outline>
+                    <outline text="Déficit focal (50%)"></outline>
+                    <outline text="Fiebre (45%)"></outline>
+                    <outline text="Náuseas / vómitos"></outline>
+                    <outline text="Convulsiónnes"></outline>
+                    <outline text="Rigidez nuca (15%)"></outline>
+                    <outline text="Déficit III y VI par"></outline>
+                </outline>
+            </outline>
+            <outline text="Diagnóstico
+Diferencial">
+                <outline text="Meningitis Bacteriana"></outline>
+                <outline text="Tumor cerebral"></outline>
+                <outline text="Enfermedad
+demielinizante"></outline>
+                <outline text="Abscesos epidurales"></outline>
+                <outline text="Encefalitis"></outline>
+                <outline text="Trombosis
+séptica seno
+dural"></outline>
+            </outline>
+            <outline text="Imágenes">
+                <outline text="TAC cerebral c/c --&gt;
+Primera imagen">
+                    <outline text="Lesión redonda"></outline>
+                    <outline text="Centro hipodenso"></outline>
+                    <outline text="Contraste en anillo"></outline>
+                    <outline text="Hipodensidad perocapsular
+(edema perilesional)"></outline>
+                </outline>
+                <outline text="RNM con gasoline">
+                    <outline text="Imagen ideal
+diagnóstico y
+seguimiento"></outline>
+                    <outline text="Muy util en fases iniciales y
+lesiones fosa posterior"></outline>
+                </outline>
+                <outline text="NO TODA IMAGEN
+CAPSULADA ES ABSCESO"></outline>
+            </outline>
+            <outline text="Estudio
+Microbiológico">
+                <outline text="Hemocultivo
+(rendimiento &lt;
+20%)"></outline>
+                <outline text="Si aspiración absceso">
+                    <outline text="Cultivo, gram, PCR TBC, FA
+meningitis, PCR toxoplasmosis"></outline>
+                </outline>
+                <outline text="Si IS">
+                    <outline text="IgG toxoplasmosis"></outline>
+                    <outline text="Cultivo acelerado
+micobacterias"></outline>
+                    <outline text="Cultivo nocardia"></outline>
+                    <outline text="Cultivo Hongos"></outline>
+                </outline>
+                <outline text="NO HACER
+PUNCION
+LUMBAR">
+                    <outline text="Riesgo de
+herniación
+cerebral"></outline>
+                </outline>
+            </outline>
+            <outline text="Tratamiento">
+                <outline text="Médico">
+                    <outline text="En caso de abscesos profundos,
+&lt;2cm, o si hay meningitis"></outline>
+                </outline>
+                <outline text="Drenaje">
+                    <outline text="Superficiales,
+Únicos o &gt; 2 cm"></outline>
+                </outline>
+                <outline text="ATB Empírico">
+                    <outline text="Ceftriaxona +
+Metronidazole 6-8
+semanas"></outline>
+                    <outline text="Ceftriaxona 2g c 12 horas ev /
+cefotaxima (2g c/4 horas)"></outline>
+                    <outline text="Metronidazol (500
+mg c/6-8 horas)">
+                        <outline text="Bacteroides fragilis"></outline>
+                        <outline text="Prevotella "></outline>
+                        <outline text="Porphyromonas"></outline>
+                        <outline text="Fusobacterium"></outline>
+                    </outline>
+                    <outline text="Vancomicina (15mg/kg c/8 horas) en
+caso de que sea post neurocx o
+trauma o bacteremia SA"></outline>
+                    <outline text="Obs: si CI de cefalosporinas o
+metronidazol --&gt; meropenem 2g c/8h 2"></outline>
+                </outline>
+                <outline text="VRSA">
+                    <outline text="Linezolid (600 c/12)"></outline>
+                    <outline text="Daptomicina (6mg/kg/dia)"></outline>
+                    <outline text="CTX forte "></outline>
+                </outline>
+                <outline text="Paso oral empírico">
+                    <outline text="Amoxicilina"></outline>
+                    <outline text="Ciprofloxacino"></outline>
+                    <outline text="Metronidazol"></outline>
+                </outline>
+            </outline>
+            <outline text="Tratamiento otros">
+                <outline text="HTEC">
+                    <outline text="Dexametasona 10mg ev + 4mg
+c/6 horas ev x 3-4 días"></outline>
+                    <outline text="Elevar cabecera 30˚"></outline>
+                    <outline text="Evitar agitación"></outline>
+                    <outline text="Manitol 0.g-1 g/kg en 5
+minutos c/4 horas"></outline>
+                    <outline text="Tiopental (barbitúricorico): BIC 40 cc/h x 20 mins
+luego bajar a dosis mínimas que logre metas de
+PIC. Hacer EEG continuo">
+                        <outline text="Utilizar si CI al manitol"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Qx">
+                <outline text="Efecto masa importante con
+evidencia de HTEC"></outline>
+                <outline text="Muy cerca del
+sistema ventricular"></outline>
+                <outline text="CGS &lt; 9"></outline>
+                <outline text="Deterioro neurológico
+progresivo, coma"></outline>
+                <outline text="Aumento del absceso tras
+2 semanas de ATB"></outline>
+                <outline text="Mismo tamaño tras 4
+semanas de ATB"></outline>
+            </outline>
+            <outline text="Seguimiento">
+                <outline text="TAC o RNM bimensual (mejora
+clínica tórpida) o mensual hasta
+resolución (&lt; 1cm)"></outline>
+            </outline>
+            <outline text="Pronóstico">
+                <outline text="Mortalidad del 25%"></outline>
+                <outline text="Secuelas
+neurológicas
+(30%)"></outline>
+                <outline text="Complicación más peligrosa es
+la ruptura del absceso hacia el
+espacio ventricular">
+                    <outline text="Venctriculitis tiene tasa de
+mortalidad del 80-100%"></outline>
+                </outline>
+                <outline text="FR peor pronóstico: compromiso
+de conciencia al ingreso"></outline>
+            </outline>
+        </outline>
+        <outline text="VIH">
+            <outline text="Generalidades">
+                <outline text="Virus RNA con envoltura"></outline>
+                <outline text="Familia retroviridae --&gt;
+Transcripción reversa"></outline>
+                <outline text="El retrovirus es un RNA que utiliza la transcriptas
+reversa y pasa a DNA. El DNA es un provirus, que
+cuando se transcribe a RNA nuevamente, pasa a
+ser el virus que infecta"></outline>
+                <outline text="Se integra a través de la integrasa,
+pasando a ser un gen del huesped"></outline>
+                <outline text="HTLV1 y 2 --&gt;
+Oncogénico">
+                    <outline text="Leucemia"></outline>
+                    <outline text="0.15-1% adultos
+del mundo"></outline>
+                    <outline text="0.3-0.7% en Chile --&gt; 4-8%
+generan enfermedad"></outline>
+                    <outline text="Latencia de 30-40 años"></outline>
+                </outline>
+                <outline text="Lisis celular o perdida de función
+--&gt; VIH 1 y VIH 2">
+                    <outline text="El VIH 1 es el +f"></outline>
+                    <outline text="El VIH 2 es parecido, pero su transmisión es
+poco eficiente. El tratamiento también es distinto.
+No se pueden usar los inhibidores no
+nucleosidicos. En Africa y en Haití"></outline>
+                </outline>
+            </outline>
+            <outline text="¿Qué es el VIH?">
+                <outline text="Core --&gt; RNA y
+proteínas estructurales"></outline>
+                <outline text="Env">
+                    <outline text="Codifica proteínas de
+envoltura viral gp41 y gp120"></outline>
+                </outline>
+                <outline text="Pol">
+                    <outline text="Codifica enzimas: transcriptas
+reversa e integrada"></outline>
+                </outline>
+                <outline text="Gag">
+                    <outline text="Codifica proteínasnas que conforman las
+estructuras de la cápside, matriz y
+nucleoproteinas virales (p24)"></outline>
+                </outline>
+                <outline text="Descubierto en
+primates no humanos"></outline>
+            </outline>
+            <outline text="Epidemiología">
+                <outline text="En Chile tenemos pocas
+estadísticas con respecto al VIH"></outline>
+                <outline text="El año 2015 se duplicó con respecto al 2010
+la cantidad de pacientes con VIH"></outline>
+                <outline text="Al año 2023 las infecciones
+nuevas bajaron un poco --&gt; desde 4300 a 3400 "></outline>
+                <outline text="91000 personas en Chile viven
+con VIH confirmado (0.7% --&gt;
+Prevalencia alta)"></outline>
+            </outline>
+            <outline text="Ciclo replicación">
+                <outline text="1.  Adsorción,
+fusión, pentración">
+                    <outline text="GP120 se une a CD4"></outline>
+                    <outline text="Cambio conformaciones en donde
+se expone CCR-5 o xCCR4">
+                        <outline text="Esto determina tropismo
+del virus con la célula"></outline>
+                    </outline>
+                    <outline text="gp41 penetra la
+membrana"></outline>
+                </outline>
+                <outline text="2. Transcriptasa reversa"></outline>
+                <outline text="3. Integración (integrada)"></outline>
+                <outline text="4. Transcripción y
+expansión del genoma
+viral"></outline>
+                <outline text="5. Ensamblaje y
+liberación del virus."></outline>
+            </outline>
+            <outline text="Patogénesis">
+                <outline text="Exposición">
+                    <outline text="Sexual (80%)"></outline>
+                    <outline text="Parenteral"></outline>
+                    <outline text="Vertical"></outline>
+                </outline>
+                <outline text="Sistema Inmune Innato">
+                    <outline text="Barreras físicas
+y químicas">
+                        <outline text="Epitelio femenino y rectal tienen &gt; riesgo de entrada.
+Epitelios más delgados. CCR5 casi exclusivamente.
+Se demora aproximadamente 72 horas en
+diseminarse a otros linfocitos"></outline>
+                        <outline text="Células dendríticas, receptores de
+antígenos, CD4, Langerhans"></outline>
+                        <outline text="El virus mata
+células CD4+"></outline>
+                        <outline text="Los macrófagos
+perpetuan la infección"></outline>
+                    </outline>
+                    <outline text="Factores solubles
+(complemento y
+citoquinas)"></outline>
+                    <outline text="Células (dendríticas,
+macrófagos, PMN, NK)"></outline>
+                </outline>
+                <outline text="Fase Aguda">
+                    <outline text="DC migran a tejidos linfáticos --&gt; Inducción
+respuesta inmune adaptativa (sinápsis infecciosa de
+DC a LT)"></outline>
+                    <outline text="Las células infectadas se fusionan con células T
+CD4+, lo que provoca la propagación del virus a
+ganglios --&gt; Replicación viral"></outline>
+                    <outline text="Sd retroviral agudo">
+                        <outline text="No se presenta en todos"></outline>
+                        <outline text="Es un síndrome
+mononucleosico"></outline>
+                    </outline>
+                    <outline text="Importante el GALT --&gt; Muerte masiva CD4, inflamación --&gt; disbiosis "></outline>
+                </outline>
+                <outline text="Las celulas CD4 diseminan
+infección y se mueren"></outline>
+                <outline text="Luego del Sd retroviral agudo, hay un periodo de latencia
+clínica (a los 2-3 meses), con menos RNA viral que en la fase
+aguda. Luego de la latencia (8-10 años o menos), los cd4
+pierden la pelea y comienzan los síntomas y enfermedades
+oportunistas (&lt;200 CD4)"></outline>
+            </outline>
+            <outline text="Diagnóstico">
+                <outline text="ELISA 4˚ Generación">
+                    <outline text="Detecta IgM, IgG y antígeno p24 (se
+demora 2 semanas en positivisarse)"></outline>
+                    <outline text="Los ELISA antiguos no detectan
+p24, entonces se demoran más de
+1 mes en positivisarse"></outline>
+                </outline>
+                <outline text="Pruebas confirmatorias">
+                    <outline text="Carga viral (niños)"></outline>
+                    <outline text="No se usan
+mucho en adultos"></outline>
+                    <outline text="Pruebas indirectas (serológicogicas,
+western blot, IF) --&gt; ISP"></outline>
+                </outline>
+            </outline>
+            <outline text="Terapia">
+                <outline text="Terapia ARV --&gt; Se comienza cuando
+se confirma el diagnóstico (antes de 2
+semanas)"></outline>
+                <outline text="Solo se podría atrasar hasta 2 meses si hay
+infección de SNC por oportunista (TBC,
+cryptococcus) o compromiso retinal por
+CMV">
+                    <outline text="Si la TBC es solo
+pulmonar, se parte al tiro"></outline>
+                </outline>
+                <outline text="Inicio">
+                    <outline text="Etapificar clínica e
+inmunológicamente al paciente"></outline>
+                    <outline text="Ver estado de
+infecciónes
+oportunistas"></outline>
+                    <outline text="Importante Hepatitis B --&gt;
+Reactivación con terapia"></outline>
+                    <outline text="Preséncialos embarazo"></outline>
+                    <outline text="Comorbilidades"></outline>
+                    <outline text="Interacciones
+farmacológicas"></outline>
+                    <outline text="HLA B*5701 --&gt; Abacavir (puede
+gatillar HS importante, estilo SJ)"></outline>
+                    <outline text="Genotipifación mutaciones NRTI,
+NNRTI, IP. Disponible INSTI"></outline>
+                </outline>
+            </outline>
+            <outline text="Infecciones
+oportunistas">
+                <outline text="Casi todas con &lt;200Cd4, menos la TB,
+puede ser en cualquier etapa"></outline>
+                <outline text="Profilaxis
+pneumocistis
+jirovecci - toxoplasma">
+                    <outline text="Cotrimoxazol"></outline>
+                </outline>
+            </outline>
+            <outline text="TARV (3 moléculas
+- 2 con PrEP)">
+                <outline text="2 de backbone
+(NRTI) + 3˚ droga"></outline>
+                <outline text="Lo más potente es 2 NRTI + 1
+inhibidor de la integrada"></outline>
+            </outline>
+        </outline>
     </body>
 </opml>
